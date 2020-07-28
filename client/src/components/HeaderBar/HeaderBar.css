@@ -1,0 +1,29 @@
+.headerBar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  padding: 0 20px;
+  height: 70px;
+  background-color: #009a66;
+  color: #ffffff;
+  font-weight: lighter;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.headerBar img {
+  height: 50px;
+}
+
+@media (max-width: 768px) {
+  .headerBar {
+    justify-content: flex-start;
+    font-size: small;
+  }
+
+  .headerBar img {
+    display: none;
+  }
+}

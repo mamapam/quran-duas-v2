@@ -1,4 +1,10 @@
+@font-face {
+  font-family: 'EB Garamond';
+  src: local('EB Garamond'),
+    url('./assets/fonts/EBGaramond.ttf') format('truetype');
+}
 body {
   margin: 0;
   padding: 0;
+  font-family: 'EB Garamond', serif;
 }
