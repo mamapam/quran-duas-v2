@@ -7,7 +7,7 @@ const headerBar = () => {
   return (
     <header className="headerBar">
       <h1>Duas from the Quran</h1>
-      <img src={bismillah} alt="bismillah" />
+      {/* <img src={bismillah} alt="bismillah" /> */}
     </header>
   );
 };

@@ -1,10 +1,7 @@
-@font-face {
-  font-family: 'EB Garamond';
-  src: local('EB Garamond'),
-    url('./assets/fonts/EBGaramond.ttf') format('truetype');
-}
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;700&display=swap');
+
 body {
   margin: 0;
-  padding: 0;
-  font-family: 'EB Garamond', serif;
+  font-family: 'Cormorant Garamond', serif;
+  background-color: #f2f2f2;
 }
