@@ -9,7 +9,13 @@
 .urdu {
   align-self: flex-end;
   font-family: 'Urdu';
-  font-size: larger;
+  font-size: xx-large;
+  direction: rtl;
+  padding: 0 20px;
+}
+
+.english {
+  padding: 0 20px;
 }
 
 .duaCardVerse img {
