@@ -1,0 +1,17 @@
+.duaCardList {
+  /* display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+  background-color: blue;
+  overflow: auto; */
+
+  display: flex;
+  flex-direction: column;
+  background-color: #eeeeee;
+  padding: 20px;
+  margin: 20px;
+  height: 90%;
+  width: 100%;
+  overflow: auto;
+}

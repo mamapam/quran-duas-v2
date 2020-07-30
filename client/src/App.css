@@ -1,5 +1,34 @@
 .App {
-  text-align: center;
+  /* text-align: center; */
   margin: 0;
   padding: 0;
+  height: calc(100vh - 90px);
+  display: flex;
+  flex-direction: column;
+  color: #000000;
+  margin-top: 80px;
+}
+
+.filter {
+  display: flex;
+  flex: 0.75;
+  padding: 20px;
+  margin: 20px;
+  align-items: center;
+}
+
+.duaListWrapper {
+  display: flex;
+  flex: 2.25;
+  background-color: #eeeeee;
+  /* padding: 20px;
+  margin: 20px; */
+  height: 90%;
+  /* flex-direction: column; */
+}
+
+@media (min-width: 1000px) {
+  .App {
+    flex-direction: row;
+  }
 }

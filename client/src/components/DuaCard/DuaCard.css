@@ -1,0 +1,26 @@
+.duaCard {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: nowrap;
+  padding: 10px;
+  margin: 10px;
+}
+
+.title {
+  height: 100%;
+  width: 90%;
+  padding: 10px;
+  margin: 10px;
+  display: flex;
+  background-color: #114b5f;
+  justify-content: space-evenly;
+  box-sizing: border-box;
+}
+
+.title span {
+  align-self: center;
+  margin-left: 50px;
+  margin-right: 50px;
+}

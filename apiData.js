@@ -138,6 +138,7 @@ exports.getAllData = () => {
   const data = {};
   return makeApiCalls()
     .then((apiDataReturned) => {
+      console.log(apiDataReturned.length);
       apiDataReturned.forEach((verse) => {
         if (data[verse.data.data[0].surah.number] === undefined) {
           data[verse.data.data[0].surah.number] = [verse.data.data];

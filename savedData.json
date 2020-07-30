@@ -1,0 +1,5400 @@
+{
+  "1": [
+    [
+      {
+        "number": 1,
+        "text": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 1,
+          "name": "سُورَةُ ٱلْفَاتِحَةِ",
+          "englishName": "Al-Faatiha",
+          "englishNameTranslation": "The Opening",
+          "numberOfAyahs": 7,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 1,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      },
+      {
+        "number": 1,
+        "text": "شروع الله کا نام لے کر جو بڑا مہربان نہایت رحم والا ہے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 1,
+          "name": "سُورَةُ ٱلْفَاتِحَةِ",
+          "englishName": "Al-Faatiha",
+          "englishNameTranslation": "The Opening",
+          "numberOfAyahs": 7,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 1,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 2,
+        "text": "[All] praise is [due] to Allah, Lord of the worlds -",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 1,
+          "name": "سُورَةُ ٱلْفَاتِحَةِ",
+          "englishName": "Al-Faatiha",
+          "englishNameTranslation": "The Opening",
+          "numberOfAyahs": 7,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 2,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      },
+      {
+        "number": 2,
+        "text": "سب تعریفیں الله کے لیے ہیں جو سب جہانوں کا پالنے والا ہے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 1,
+          "name": "سُورَةُ ٱلْفَاتِحَةِ",
+          "englishName": "Al-Faatiha",
+          "englishNameTranslation": "The Opening",
+          "numberOfAyahs": 7,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 2,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 3,
+        "text": "The Entirely Merciful, the Especially Merciful,",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 1,
+          "name": "سُورَةُ ٱلْفَاتِحَةِ",
+          "englishName": "Al-Faatiha",
+          "englishNameTranslation": "The Opening",
+          "numberOfAyahs": 7,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 3,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      },
+      {
+        "number": 3,
+        "text": "بڑا مہربان نہایت رحم والا",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 1,
+          "name": "سُورَةُ ٱلْفَاتِحَةِ",
+          "englishName": "Al-Faatiha",
+          "englishNameTranslation": "The Opening",
+          "numberOfAyahs": 7,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 3,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 4,
+        "text": "Sovereign of the Day of Recompense.",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 1,
+          "name": "سُورَةُ ٱلْفَاتِحَةِ",
+          "englishName": "Al-Faatiha",
+          "englishNameTranslation": "The Opening",
+          "numberOfAyahs": 7,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 4,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      },
+      {
+        "number": 4,
+        "text": "جزا کے دن کا مالک",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 1,
+          "name": "سُورَةُ ٱلْفَاتِحَةِ",
+          "englishName": "Al-Faatiha",
+          "englishNameTranslation": "The Opening",
+          "numberOfAyahs": 7,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 4,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 5,
+        "text": "It is You we worship and You we ask for help.",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 1,
+          "name": "سُورَةُ ٱلْفَاتِحَةِ",
+          "englishName": "Al-Faatiha",
+          "englishNameTranslation": "The Opening",
+          "numberOfAyahs": 7,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 5,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      },
+      {
+        "number": 5,
+        "text": "ہم تیری ہی عبادت کرتے ہیں اور تجھ ہی سے مدد مانگتے ہیں",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 1,
+          "name": "سُورَةُ ٱلْفَاتِحَةِ",
+          "englishName": "Al-Faatiha",
+          "englishNameTranslation": "The Opening",
+          "numberOfAyahs": 7,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 5,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 6,
+        "text": "Guide us to the straight path -",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 1,
+          "name": "سُورَةُ ٱلْفَاتِحَةِ",
+          "englishName": "Al-Faatiha",
+          "englishNameTranslation": "The Opening",
+          "numberOfAyahs": 7,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 6,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      },
+      {
+        "number": 6,
+        "text": "ہمیں سیدھا راستہ دکھا",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 1,
+          "name": "سُورَةُ ٱلْفَاتِحَةِ",
+          "englishName": "Al-Faatiha",
+          "englishNameTranslation": "The Opening",
+          "numberOfAyahs": 7,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 6,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 7,
+        "text": "The path of those upon whom You have bestowed favor, not of those who have evoked [Your] anger or of those who are astray.",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 1,
+          "name": "سُورَةُ ٱلْفَاتِحَةِ",
+          "englishName": "Al-Faatiha",
+          "englishNameTranslation": "The Opening",
+          "numberOfAyahs": 7,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 7,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      },
+      {
+        "number": 7,
+        "text": "ان لوگوں کا راستہ جن پر تو نے انعام کیا نہ جن پر تیرا غضب نازل ہوا اور نہ وہ گمراہ ہوئے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 1,
+          "name": "سُورَةُ ٱلْفَاتِحَةِ",
+          "englishName": "Al-Faatiha",
+          "englishNameTranslation": "The Opening",
+          "numberOfAyahs": 7,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 7,
+        "juz": 1,
+        "manzil": 1,
+        "page": 1,
+        "ruku": 1,
+        "hizbQuarter": 1,
+        "sajda": false
+      }
+    ]
+  ],
+  "2": [
+    [
+      {
+        "number": 208,
+        "text": "But among them is he who says, \"Our Lord, give us in this world [that which is] good and in the Hereafter [that which is] good and protect us from the punishment of the Fire.\"",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 2,
+          "name": "سورة البقرة",
+          "englishName": "Al-Baqara",
+          "englishNameTranslation": "The Cow",
+          "numberOfAyahs": 286,
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 201,
+        "juz": 2,
+        "manzil": 1,
+        "page": 31,
+        "ruku": 26,
+        "hizbQuarter": 12,
+        "sajda": false
+      },
+      {
+        "number": 208,
+        "text": "اوربعض یہ کہتے ہیں کہ اے ہمارے رب ہمیں دنیا میں نیکی اور آخرت میں بھی نیکی دے اور ہمیں دوزخ کے عذاب سے بچا",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 2,
+          "name": "سورة البقرة",
+          "englishName": "Al-Baqara",
+          "englishNameTranslation": "The Cow",
+          "numberOfAyahs": 286,
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 201,
+        "juz": 2,
+        "manzil": 1,
+        "page": 31,
+        "ruku": 26,
+        "hizbQuarter": 12,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 257,
+        "text": "And when they went forth to [face] Goliath and his soldiers, they said, \"Our Lord, pour upon us patience and plant firmly our feet and give us victory over the disbelieving people.\"",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 2,
+          "name": "سورة البقرة",
+          "englishName": "Al-Baqara",
+          "englishNameTranslation": "The Cow",
+          "numberOfAyahs": 286,
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 250,
+        "juz": 2,
+        "manzil": 1,
+        "page": 41,
+        "ruku": 34,
+        "hizbQuarter": 16,
+        "sajda": false
+      },
+      {
+        "number": 257,
+        "text": "اورجب جالوت اور اس کی فوجوں کے سامنے ہوئے تو کہا اے رب ہمارے دلوں میں صبر ڈال دے اور ہمارے پاؤں جمائے رکھ اور اس کافر قوم پر ہماری مدد کر",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 2,
+          "name": "سورة البقرة",
+          "englishName": "Al-Baqara",
+          "englishNameTranslation": "The Cow",
+          "numberOfAyahs": 286,
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 250,
+        "juz": 2,
+        "manzil": 1,
+        "page": 41,
+        "ruku": 34,
+        "hizbQuarter": 16,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 292,
+        "text": "The Messenger has believed in what was revealed to him from his Lord, and [so have] the believers. All of them have believed in Allah and His angels and His books and His messengers, [saying], \"We make no distinction between any of His messengers.\" And they say, \"We hear and we obey. [We seek] Your forgiveness, our Lord, and to You is the [final] destination.\"",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 2,
+          "name": "سورة البقرة",
+          "englishName": "Al-Baqara",
+          "englishNameTranslation": "The Cow",
+          "numberOfAyahs": 286,
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 285,
+        "juz": 3,
+        "manzil": 1,
+        "page": 49,
+        "ruku": 41,
+        "hizbQuarter": 20,
+        "sajda": false
+      },
+      {
+        "number": 292,
+        "text": "رسول نے مان لیا جو کچھ اس پر اس کے رب کی طرف سے اترا ہے اور مسلمانوں نے بھی مان لیا سب نے الله کو اور اس کے فرشتوں کو اور اس کی کتابوں کو اور اس کے رسولوں کو مان لیا ہے کہتے ہیں کہ ہم الله کے رسولوں کو ایک دوسرے سے الگ نہیں کرتے اور کہتے ہیں ہم نے سنا اور مان لیا اے ہمارے رب تیری بخشش چاہتے ہیں اور تیری ہی طرف لوٹ کر جانا ہے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 2,
+          "name": "سورة البقرة",
+          "englishName": "Al-Baqara",
+          "englishNameTranslation": "The Cow",
+          "numberOfAyahs": 286,
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 285,
+        "juz": 3,
+        "manzil": 1,
+        "page": 49,
+        "ruku": 41,
+        "hizbQuarter": 20,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 293,
+        "text": "Allah does not charge a soul except [with that within] its capacity. It will have [the consequence of] what [good] it has gained, and it will bear [the consequence of] what [evil] it has earned. \"Our Lord, do not impose blame upon us if we have forgotten or erred. Our Lord, and lay not upon us a burden like that which You laid upon those before us. Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us. You are our protector, so give us victory over the disbelieving people.\"",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 2,
+          "name": "سورة البقرة",
+          "englishName": "Al-Baqara",
+          "englishNameTranslation": "The Cow",
+          "numberOfAyahs": 286,
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 286,
+        "juz": 3,
+        "manzil": 1,
+        "page": 49,
+        "ruku": 41,
+        "hizbQuarter": 20,
+        "sajda": false
+      },
+      {
+        "number": 293,
+        "text": "الله کسی کو اس کی طاقت کے سوا تکلیف نہیں دیتا نیکی کا فائدہ بھی اسی کو ہو گا اور برائی کی زد بھی اسی پر پڑے گی اے رب ہمارے! اگر ہم بھول جائیں یا غلطی کریں تو ہمیں نہ پکڑ اے رب ہمارے! اور ہم پر بھاری بوجھ نہ رکھ جیسا تو نے ہم سے پہلے لوگوں پر رکھا تھا اے رب ہمارے! اور ہم سے وہ بوجھ نہ اٹھوا جس کی ہمیں طاقت نہیں اور ہمیں معاف کر دے اور ہمیں بخش دے اور ہم پر رحم کر تو ہی ہمارا کارساز ہے کافروں کے مقابلہ میں تو ہماری مدد کر",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 2,
+          "name": "سورة البقرة",
+          "englishName": "Al-Baqara",
+          "englishNameTranslation": "The Cow",
+          "numberOfAyahs": 286,
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 286,
+        "juz": 3,
+        "manzil": 1,
+        "page": 49,
+        "ruku": 41,
+        "hizbQuarter": 20,
+        "sajda": false
+      }
+    ]
+  ],
+  "3": [
+    [
+      {
+        "number": 301,
+        "text": "[Who say], \"Our Lord, let not our hearts deviate after You have guided us and grant us from Yourself mercy. Indeed, You are the Bestower.",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 3,
+          "name": "سورة آل عمران",
+          "englishName": "Aal-i-Imraan",
+          "englishNameTranslation": "The Family of Imraan",
+          "numberOfAyahs": 200,
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 8,
+        "juz": 3,
+        "manzil": 1,
+        "page": 50,
+        "ruku": 42,
+        "hizbQuarter": 20,
+        "sajda": false
+      },
+      {
+        "number": 301,
+        "text": "اے رب ہمارے! جب تو ہم کو ہدایت کر چکا تو ہمارے دلوں کا نہ پھیر اور اپنے ہاں سے ہمیں رحمت عطافرما بے شک تو بہت زیادہ دینے والا ہے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 3,
+          "name": "سورة آل عمران",
+          "englishName": "Aal-i-Imraan",
+          "englishNameTranslation": "The Family of Imraan",
+          "numberOfAyahs": 200,
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 8,
+        "juz": 3,
+        "manzil": 1,
+        "page": 50,
+        "ruku": 42,
+        "hizbQuarter": 20,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 302,
+        "text": "Our Lord, surely You will gather the people for a Day about which there is no doubt. Indeed, Allah does not fail in His promise.\"",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 3,
+          "name": "سورة آل عمران",
+          "englishName": "Aal-i-Imraan",
+          "englishNameTranslation": "The Family of Imraan",
+          "numberOfAyahs": 200,
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 9,
+        "juz": 3,
+        "manzil": 1,
+        "page": 50,
+        "ruku": 42,
+        "hizbQuarter": 20,
+        "sajda": false
+      },
+      {
+        "number": 302,
+        "text": "اے ہمارے رب! توایک دن سب لوگوں کو جمع کرنے والا ہے جس میں کوئی شک نہیں بے شک الله اپنے وعدہ کا خلاف نہیں کرتا",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 3,
+          "name": "سورة آل عمران",
+          "englishName": "Aal-i-Imraan",
+          "englishNameTranslation": "The Family of Imraan",
+          "numberOfAyahs": 200,
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 9,
+        "juz": 3,
+        "manzil": 1,
+        "page": 50,
+        "ruku": 42,
+        "hizbQuarter": 20,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 309,
+        "text": "Those who say, \"Our Lord, indeed we have believed, so forgive us our sins and protect us from the punishment of the Fire,\"",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 3,
+          "name": "سورة آل عمران",
+          "englishName": "Aal-i-Imraan",
+          "englishNameTranslation": "The Family of Imraan",
+          "numberOfAyahs": 200,
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 16,
+        "juz": 3,
+        "manzil": 1,
+        "page": 52,
+        "ruku": 43,
+        "hizbQuarter": 21,
+        "sajda": false
+      },
+      {
+        "number": 309,
+        "text": "وہ جو کہتے ہیں اے رب ہمارے! ہم ایمان لائے ہیں سو ہمیں ہمارے گناہ بخش دے اور ہمیں دوزخ کے عذاب سے بچا لے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 3,
+          "name": "سورة آل عمران",
+          "englishName": "Aal-i-Imraan",
+          "englishNameTranslation": "The Family of Imraan",
+          "numberOfAyahs": 200,
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 16,
+        "juz": 3,
+        "manzil": 1,
+        "page": 52,
+        "ruku": 43,
+        "hizbQuarter": 21,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 331,
+        "text": "At that, Zechariah called upon his Lord, saying, \"My Lord, grant me from Yourself a good offspring. Indeed, You are the Hearer of supplication.\"",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 3,
+          "name": "سورة آل عمران",
+          "englishName": "Aal-i-Imraan",
+          "englishNameTranslation": "The Family of Imraan",
+          "numberOfAyahs": 200,
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 38,
+        "juz": 3,
+        "manzil": 1,
+        "page": 55,
+        "ruku": 45,
+        "hizbQuarter": 22,
+        "sajda": false
+      },
+      {
+        "number": 331,
+        "text": "زکریا نے وہیں اپنے رب سے دعا کی کہا اے میرے رب! مجھے اپنے پاس سے پاکیزہ اولاد عطا فرما بے شک تو دعا کا سننے والا ہے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 3,
+          "name": "سورة آل عمران",
+          "englishName": "Aal-i-Imraan",
+          "englishNameTranslation": "The Family of Imraan",
+          "numberOfAyahs": 200,
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 38,
+        "juz": 3,
+        "manzil": 1,
+        "page": 55,
+        "ruku": 45,
+        "hizbQuarter": 22,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 346,
+        "text": "Our Lord, we have believed in what You revealed and have followed the messenger Jesus, so register us among the witnesses [to truth].\"",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 3,
+          "name": "سورة آل عمران",
+          "englishName": "Aal-i-Imraan",
+          "englishNameTranslation": "The Family of Imraan",
+          "numberOfAyahs": 200,
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 53,
+        "juz": 3,
+        "manzil": 1,
+        "page": 57,
+        "ruku": 46,
+        "hizbQuarter": 23,
+        "sajda": false
+      },
+      {
+        "number": 346,
+        "text": "اے رب ہمارے! ہم اس چیز پر ایمان لائے جو تو نے نازل کی اور ہم رسول کے تابعدار ہوئے سو تو ہمیں گواہی دینے والوں میں لکھ لے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 3,
+          "name": "سورة آل عمران",
+          "englishName": "Aal-i-Imraan",
+          "englishNameTranslation": "The Family of Imraan",
+          "numberOfAyahs": 200,
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 53,
+        "juz": 3,
+        "manzil": 1,
+        "page": 57,
+        "ruku": 46,
+        "hizbQuarter": 23,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 440,
+        "text": "And their words were not but that they said, \"Our Lord, forgive us our sins and the excess [committed] in our affairs and plant firmly our feet and give us victory over the disbelieving people.\"",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 3,
+          "name": "سورة آل عمران",
+          "englishName": "Aal-i-Imraan",
+          "englishNameTranslation": "The Family of Imraan",
+          "numberOfAyahs": 200,
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 147,
+        "juz": 4,
+        "manzil": 1,
+        "page": 68,
+        "ruku": 56,
+        "hizbQuarter": 27,
+        "sajda": false
+      },
+      {
+        "number": 440,
+        "text": "اور انہوں نے سوائے اس کے کچھ نہیں کہا کہ اے ہمارے رب ہمارے گناہ بخش دے اور جو ہمارے کام میں ہم سے زیادتی ہوئی ہے او رہمارے قدم ثابت رکھ اور کافروں کی قوم پر ہمیں مدد دے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 3,
+          "name": "سورة آل عمران",
+          "englishName": "Aal-i-Imraan",
+          "englishNameTranslation": "The Family of Imraan",
+          "numberOfAyahs": 200,
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 147,
+        "juz": 4,
+        "manzil": 1,
+        "page": 68,
+        "ruku": 56,
+        "hizbQuarter": 27,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 484,
+        "text": "Who remember Allah while standing or sitting or [lying] on their sides and give thought to the creation of the heavens and the earth, [saying], \"Our Lord, You did not create this aimlessly; exalted are You [above such a thing]; then protect us from the punishment of the Fire.",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 3,
+          "name": "سورة آل عمران",
+          "englishName": "Aal-i-Imraan",
+          "englishNameTranslation": "The Family of Imraan",
+          "numberOfAyahs": 200,
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 191,
+        "juz": 4,
+        "manzil": 1,
+        "page": 75,
+        "ruku": 61,
+        "hizbQuarter": 30,
+        "sajda": false
+      },
+      {
+        "number": 484,
+        "text": "وہ جو الله کو کھڑے اور بیٹھے اور کروٹ پر لیٹے یاد کرتے ہیں اور آسمان اور زمین کی پیدائش میں فکر کرتے ہیں (کہتے ہیں) اے ہمارے رب تو نے یہ بےفائدہ نہیں بنایا توسب عیبوں سے پاک ہے سو ہمیں دوزح کے عذاب سے بچا",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 3,
+          "name": "سورة آل عمران",
+          "englishName": "Aal-i-Imraan",
+          "englishNameTranslation": "The Family of Imraan",
+          "numberOfAyahs": 200,
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 191,
+        "juz": 4,
+        "manzil": 1,
+        "page": 75,
+        "ruku": 61,
+        "hizbQuarter": 30,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 485,
+        "text": "Our Lord, indeed whoever You admit to the Fire - You have disgraced him, and for the wrongdoers there are no helpers.",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 3,
+          "name": "سورة آل عمران",
+          "englishName": "Aal-i-Imraan",
+          "englishNameTranslation": "The Family of Imraan",
+          "numberOfAyahs": 200,
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 192,
+        "juz": 4,
+        "manzil": 1,
+        "page": 75,
+        "ruku": 61,
+        "hizbQuarter": 30,
+        "sajda": false
+      },
+      {
+        "number": 485,
+        "text": "اے رب ہمارے جسے تو نے دوزخ میں داخل کیا سو تو نے اے رسوا کیا اور ظالموں کا کوئی مددگار نہیں ہوگا",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 3,
+          "name": "سورة آل عمران",
+          "englishName": "Aal-i-Imraan",
+          "englishNameTranslation": "The Family of Imraan",
+          "numberOfAyahs": 200,
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 192,
+        "juz": 4,
+        "manzil": 1,
+        "page": 75,
+        "ruku": 61,
+        "hizbQuarter": 30,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 486,
+        "text": "Our Lord, indeed we have heard a caller calling to faith, [saying], 'Believe in your Lord,' and we have believed. Our Lord, so forgive us our sins and remove from us our misdeeds and cause us to die with the righteous.",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 3,
+          "name": "سورة آل عمران",
+          "englishName": "Aal-i-Imraan",
+          "englishNameTranslation": "The Family of Imraan",
+          "numberOfAyahs": 200,
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 193,
+        "juz": 4,
+        "manzil": 1,
+        "page": 75,
+        "ruku": 61,
+        "hizbQuarter": 30,
+        "sajda": false
+      },
+      {
+        "number": 486,
+        "text": "ہم نے ایک پکارنے والے سے سنا جو ایمان لانے کو پکارتا تھا کہ اپنے رب پر ایمان لاؤ سو ہم ایمان لائے اے رب ہمارے اب ہمارے گناہ بخش دے اور ہم سے ہمارا برائیاں دو رکردے اور ہمیں نیک لوگو ں کے ساتھ موت دے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 3,
+          "name": "سورة آل عمران",
+          "englishName": "Aal-i-Imraan",
+          "englishNameTranslation": "The Family of Imraan",
+          "numberOfAyahs": 200,
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 193,
+        "juz": 4,
+        "manzil": 1,
+        "page": 75,
+        "ruku": 61,
+        "hizbQuarter": 30,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 487,
+        "text": "Our Lord, and grant us what You promised us through Your messengers and do not disgrace us on the Day of Resurrection. Indeed, You do not fail in [Your] promise.\"",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 3,
+          "name": "سورة آل عمران",
+          "englishName": "Aal-i-Imraan",
+          "englishNameTranslation": "The Family of Imraan",
+          "numberOfAyahs": 200,
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 194,
+        "juz": 4,
+        "manzil": 1,
+        "page": 75,
+        "ruku": 61,
+        "hizbQuarter": 30,
+        "sajda": false
+      },
+      {
+        "number": 487,
+        "text": "اے رب ہمارے او رہمیں دے جو تو نےہم سے اپنے رسولوں کے ذریعے سے وعدہ کیا ہے اور ہمیں قیامت کے دن رسوا نہ کر بے شک تو وعدہ کے خلاف نہیں کرتا",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 3,
+          "name": "سورة آل عمران",
+          "englishName": "Aal-i-Imraan",
+          "englishNameTranslation": "The Family of Imraan",
+          "numberOfAyahs": 200,
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 194,
+        "juz": 4,
+        "manzil": 1,
+        "page": 75,
+        "ruku": 61,
+        "hizbQuarter": 30,
+        "sajda": false
+      }
+    ]
+  ],
+  "5": [
+    [
+      {
+        "number": 752,
+        "text": "And when they hear what has been revealed to the Messenger, you see their eyes overflowing with tears because of what they have recognized of the truth. They say, \"Our Lord, we have believed, so register us among the witnesses.",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 5,
+          "name": "سورة المائدة",
+          "englishName": "Al-Maaida",
+          "englishNameTranslation": "The Table",
+          "numberOfAyahs": 120,
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 83,
+        "juz": 7,
+        "manzil": 2,
+        "page": 122,
+        "ruku": 96,
+        "hizbQuarter": 49,
+        "sajda": false
+      },
+      {
+        "number": 752,
+        "text": "اور جب اس چیز کو سنتے ہیں جو رسول پر اتری تو ان کی آنکھوں کو دیکھے گا کہ آنسوؤں سے بہتی ہیں اس لیے کہ انہوں نے حق کو پہچان لیا کہتے ہیں اے رب ہمارے کہ ہم ایمان لائے تو ہمیں ماننے والوں کے ساتھ لکھ لے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 5,
+          "name": "سورة المائدة",
+          "englishName": "Al-Maaida",
+          "englishNameTranslation": "The Table",
+          "numberOfAyahs": 120,
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 83,
+        "juz": 7,
+        "manzil": 2,
+        "page": 122,
+        "ruku": 96,
+        "hizbQuarter": 49,
+        "sajda": false
+      }
+    ]
+  ],
+  "7": [
+    [
+      {
+        "number": 977,
+        "text": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\"",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 7,
+          "name": "سورة الأعراف",
+          "englishName": "Al-A'raaf",
+          "englishNameTranslation": "The Heights",
+          "numberOfAyahs": 206,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 23,
+        "juz": 8,
+        "manzil": 2,
+        "page": 153,
+        "ruku": 123,
+        "hizbQuarter": 61,
+        "sajda": false
+      },
+      {
+        "number": 977,
+        "text": "ان دونوں نے کہا اے رب ہمارے ہم نے اپنی جانوں پر ظلم کیا اور اگر تو ہمیں نہ بخشے گا اور ہم پر رحم نہ کرے گا تو ہم ضرور تباہ ہوجائیں گے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 7,
+          "name": "سورة الأعراف",
+          "englishName": "Al-A'raaf",
+          "englishNameTranslation": "The Heights",
+          "numberOfAyahs": 206,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 23,
+        "juz": 8,
+        "manzil": 2,
+        "page": 153,
+        "ruku": 123,
+        "hizbQuarter": 61,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 1001,
+        "text": "And when their eyes are turned toward the companions of the Fire, they say, \"Our Lord, do not place us with the wrongdoing people.\"",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 7,
+          "name": "سورة الأعراف",
+          "englishName": "Al-A'raaf",
+          "englishNameTranslation": "The Heights",
+          "numberOfAyahs": 206,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 47,
+        "juz": 8,
+        "manzil": 2,
+        "page": 156,
+        "ruku": 126,
+        "hizbQuarter": 63,
+        "sajda": false
+      },
+      {
+        "number": 1001,
+        "text": "اورجب ان کی نگاہ دوزخ والوں کی طرف پھرے گی تو کہیں گے اے رب ہمارے ہمیں ظالموں کے ساتھ نہ ملا",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 7,
+          "name": "سورة الأعراف",
+          "englishName": "Al-A'raaf",
+          "englishNameTranslation": "The Heights",
+          "numberOfAyahs": 206,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 47,
+        "juz": 8,
+        "manzil": 2,
+        "page": 156,
+        "ruku": 126,
+        "hizbQuarter": 63,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 1080,
+        "text": "And you do not resent us except because we believed in the signs of our Lord when they came to us. Our Lord, pour upon us patience and let us die as Muslims [in submission to You].\"",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 7,
+          "name": "سورة الأعراف",
+          "englishName": "Al-A'raaf",
+          "englishNameTranslation": "The Heights",
+          "numberOfAyahs": 206,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 126,
+        "juz": 9,
+        "manzil": 2,
+        "page": 165,
+        "ruku": 135,
+        "hizbQuarter": 66,
+        "sajda": false
+      },
+      {
+        "number": 1080,
+        "text": "اور تمہیں ہم سے یہی دشمنی ہے کہ ہم نے اپنے رب کی نشانیوں کو مان لیا جب وہ ہمارے پاس آئیں اے ہمارے رب ہمارے اوپر صبر ڈال اورہمیں مسلمان کر کے موت دے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 7,
+          "name": "سورة الأعراف",
+          "englishName": "Al-A'raaf",
+          "englishNameTranslation": "The Heights",
+          "numberOfAyahs": 206,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 126,
+        "juz": 9,
+        "manzil": 2,
+        "page": 165,
+        "ruku": 135,
+        "hizbQuarter": 66,
+        "sajda": false
+      }
+    ]
+  ],
+  "10": [
+    [
+      {
+        "number": 1449,
+        "text": "So they said, \"Upon Allah do we rely. Our Lord, make us not [objects of] trial for the wrongdoing people",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 10,
+          "name": "سورة يونس",
+          "englishName": "Yunus",
+          "englishNameTranslation": "Jonas",
+          "numberOfAyahs": 109,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 85,
+        "juz": 11,
+        "manzil": 3,
+        "page": 218,
+        "ruku": 180,
+        "hizbQuarter": 87,
+        "sajda": false
+      },
+      {
+        "number": 1449,
+        "text": "تب وہ بولے ہم الله ہی پر بھروسہ کرتے ہیں اے رب ہمارے ہم پر اس ظالم قوم کا زور نہ آزما",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 10,
+          "name": "سورة يونس",
+          "englishName": "Yunus",
+          "englishNameTranslation": "Jonas",
+          "numberOfAyahs": 109,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 85,
+        "juz": 11,
+        "manzil": 3,
+        "page": 218,
+        "ruku": 180,
+        "hizbQuarter": 87,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 1450,
+        "text": "And save us by Your mercy from the disbelieving people.\"",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 10,
+          "name": "سورة يونس",
+          "englishName": "Yunus",
+          "englishNameTranslation": "Jonas",
+          "numberOfAyahs": 109,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 86,
+        "juz": 11,
+        "manzil": 3,
+        "page": 218,
+        "ruku": 180,
+        "hizbQuarter": 87,
+        "sajda": false
+      },
+      {
+        "number": 1450,
+        "text": "اور ہمیں مہربانی فرما کر ان کافروں سے چھڑا دے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 10,
+          "name": "سورة يونس",
+          "englishName": "Yunus",
+          "englishNameTranslation": "Jonas",
+          "numberOfAyahs": 109,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 86,
+        "juz": 11,
+        "manzil": 3,
+        "page": 218,
+        "ruku": 180,
+        "hizbQuarter": 87,
+        "sajda": false
+      }
+    ]
+  ],
+  "11": [
+    [
+      {
+        "number": 1520,
+        "text": "[Noah] said, \"My Lord, I seek refuge in You from asking that of which I have no knowledge. And unless You forgive me and have mercy upon me, I will be among the losers.\"",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 11,
+          "name": "سورة هود",
+          "englishName": "Hud",
+          "englishNameTranslation": "Hud",
+          "numberOfAyahs": 123,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 47,
+        "juz": 12,
+        "manzil": 3,
+        "page": 227,
+        "ruku": 186,
+        "hizbQuarter": 91,
+        "sajda": false
+      },
+      {
+        "number": 1520,
+        "text": "کہا اے رب میں تیری پناہ لیتا ہوں اس بات سے کہ تجھ سے وہ بات پوچھوں جو مجھے معلوم نہیں اور اگر تو نے مجھے نہ بخشا اورمجھ پر رحم نہ کیا تو میں نقصان والوں میں ہو جاؤں گا",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 11,
+          "name": "سورة هود",
+          "englishName": "Hud",
+          "englishNameTranslation": "Hud",
+          "numberOfAyahs": 123,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 47,
+        "juz": 12,
+        "manzil": 3,
+        "page": 227,
+        "ruku": 186,
+        "hizbQuarter": 91,
+        "sajda": false
+      }
+    ]
+  ],
+  "12": [
+    [
+      {
+        "number": 1697,
+        "text": "My Lord, You have given me [something] of sovereignty and taught me of the interpretation of dreams. Creator of the heavens and earth, You are my protector in this world and in the Hereafter. Cause me to die a Muslim and join me with the righteous.\"",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 12,
+          "name": "سورة يوسف",
+          "englishName": "Yusuf",
+          "englishNameTranslation": "Joseph",
+          "numberOfAyahs": 111,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 101,
+        "juz": 13,
+        "manzil": 3,
+        "page": 247,
+        "ruku": 203,
+        "hizbQuarter": 99,
+        "sajda": false
+      },
+      {
+        "number": 1697,
+        "text": "اے میرے رب تو نے مجھےکچھ حکومت دی ہے اور مجھے خوابوں کی تعبیر کا علم بھی سکھلایا ہے اے آسمانو ں اور زمین کے بنانے والے! دنیا اور آخرت میں تو ہی میرا کارساز ہے تو مجھے اسلام پر موت دے اور مجھے نیک بختوں میں شامل کر دے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 12,
+          "name": "سورة يوسف",
+          "englishName": "Yusuf",
+          "englishNameTranslation": "Joseph",
+          "numberOfAyahs": 111,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 101,
+        "juz": 13,
+        "manzil": 3,
+        "page": 247,
+        "ruku": 203,
+        "hizbQuarter": 99,
+        "sajda": false
+      }
+    ]
+  ],
+  "14": [
+    [
+      {
+        "number": 1785,
+        "text": "And [mention, O Muhammad], when Abraham said, \"My Lord, make this city [Makkah] secure and keep me and my sons away from worshipping idols.",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 14,
+          "name": "سورة ابراهيم",
+          "englishName": "Ibrahim",
+          "englishNameTranslation": "Abraham",
+          "numberOfAyahs": 52,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 35,
+        "juz": 13,
+        "manzil": 3,
+        "page": 260,
+        "ruku": 216,
+        "hizbQuarter": 104,
+        "sajda": false
+      },
+      {
+        "number": 1785,
+        "text": "اورجس وقت ابراھیم نے کہا اے میرے رب! اس شہر کوامن والا کر دے اور مجھے اور میری اولاد کو بت پرستی سے بچا",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 14,
+          "name": "سورة ابراهيم",
+          "englishName": "Ibrahim",
+          "englishNameTranslation": "Abraham",
+          "numberOfAyahs": 52,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 35,
+        "juz": 13,
+        "manzil": 3,
+        "page": 260,
+        "ruku": 216,
+        "hizbQuarter": 104,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 1790,
+        "text": "My Lord, make me an establisher of prayer, and [many] from my descendants. Our Lord, and accept my supplication.",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 14,
+          "name": "سورة ابراهيم",
+          "englishName": "Ibrahim",
+          "englishNameTranslation": "Abraham",
+          "numberOfAyahs": 52,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 40,
+        "juz": 13,
+        "manzil": 3,
+        "page": 260,
+        "ruku": 216,
+        "hizbQuarter": 104,
+        "sajda": false
+      },
+      {
+        "number": 1790,
+        "text": "اے میرے رب! مجھے اور میری اولاد کو نماز قائم کرنے والا بنا دے اے ہمارے رب! اورمیری دعا قبول فرما",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 14,
+          "name": "سورة ابراهيم",
+          "englishName": "Ibrahim",
+          "englishNameTranslation": "Abraham",
+          "numberOfAyahs": 52,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 40,
+        "juz": 13,
+        "manzil": 3,
+        "page": 260,
+        "ruku": 216,
+        "hizbQuarter": 104,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 1791,
+        "text": "Our Lord, forgive me and my parents and the believers the Day the account is established.\"",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 14,
+          "name": "سورة ابراهيم",
+          "englishName": "Ibrahim",
+          "englishNameTranslation": "Abraham",
+          "numberOfAyahs": 52,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 41,
+        "juz": 13,
+        "manzil": 3,
+        "page": 260,
+        "ruku": 216,
+        "hizbQuarter": 104,
+        "sajda": false
+      },
+      {
+        "number": 1791,
+        "text": "اے ہمارے رب! مجھے اورمیرے ماں باپ کو اور ایمانداروں کو حساب قائم ہونے کے دن بخش دے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 14,
+          "name": "سورة ابراهيم",
+          "englishName": "Ibrahim",
+          "englishNameTranslation": "Abraham",
+          "numberOfAyahs": 52,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 41,
+        "juz": 13,
+        "manzil": 3,
+        "page": 260,
+        "ruku": 216,
+        "hizbQuarter": 104,
+        "sajda": false
+      }
+    ]
+  ],
+  "17": [
+    [
+      {
+        "number": 2053,
+        "text": "And lower to them the wing of humility out of mercy and say, \"My Lord, have mercy upon them as they brought me up [when I was] small.\"",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 17,
+          "name": "سورة الإسراء",
+          "englishName": "Al-Israa",
+          "englishNameTranslation": "The Night Journey",
+          "numberOfAyahs": 111,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 24,
+        "juz": 15,
+        "manzil": 4,
+        "page": 284,
+        "ruku": 242,
+        "hizbQuarter": 114,
+        "sajda": false
+      },
+      {
+        "number": 2053,
+        "text": "اوران کے سامنے شفقت سے عاجزی کے ساتھ جھکے رہو اور کہو اے میرے رب جس طرح انہوں نے مجھے بچپن سےپالا ہے اسی طرح تو بھی ان پر رحم فرما",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 17,
+          "name": "سورة الإسراء",
+          "englishName": "Al-Israa",
+          "englishNameTranslation": "The Night Journey",
+          "numberOfAyahs": 111,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 24,
+        "juz": 15,
+        "manzil": 4,
+        "page": 284,
+        "ruku": 242,
+        "hizbQuarter": 114,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 2109,
+        "text": "And say, \"My Lord, cause me to enter a sound entrance and to exit a sound exit and grant me from Yourself a supporting authority.\"",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 17,
+          "name": "سورة الإسراء",
+          "englishName": "Al-Israa",
+          "englishNameTranslation": "The Night Journey",
+          "numberOfAyahs": 111,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 80,
+        "juz": 15,
+        "manzil": 4,
+        "page": 290,
+        "ruku": 248,
+        "hizbQuarter": 116,
+        "sajda": false
+      },
+      {
+        "number": 2109,
+        "text": "اور کہہ اے میرے رب مجھے خوبی کے ساتھ پہنچا دے اور مجھے خوبی کے ساتھ نکال لے اور میرے لیے اپنی طرف سے غلبہ دے جس کے ساتھ نصرت ہو",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 17,
+          "name": "سورة الإسراء",
+          "englishName": "Al-Israa",
+          "englishNameTranslation": "The Night Journey",
+          "numberOfAyahs": 111,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 80,
+        "juz": 15,
+        "manzil": 4,
+        "page": 290,
+        "ruku": 248,
+        "hizbQuarter": 116,
+        "sajda": false
+      }
+    ]
+  ],
+  "18": [
+    [
+      {
+        "number": 2150,
+        "text": "[Mention] when the youths retreated to the cave and said, \"Our Lord, grant us from Yourself mercy and prepare for us from our affair right guidance.\"",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 18,
+          "name": "سورة الكهف",
+          "englishName": "Al-Kahf",
+          "englishNameTranslation": "The Cave",
+          "numberOfAyahs": 110,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 10,
+        "juz": 15,
+        "manzil": 4,
+        "page": 294,
+        "ruku": 252,
+        "hizbQuarter": 117,
+        "sajda": false
+      },
+      {
+        "number": 2150,
+        "text": "جب کہ چند جوان اس غار میں آ بیٹھے پھر کہا اے ہمارے رب ہم پر اپنی طرف سے رحمت نازل فرما اور ہمارے اس کام کے لیے کامیابی کا سامان کر دے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 18,
+          "name": "سورة الكهف",
+          "englishName": "Al-Kahf",
+          "englishNameTranslation": "The Cave",
+          "numberOfAyahs": 110,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 10,
+        "juz": 15,
+        "manzil": 4,
+        "page": 294,
+        "ruku": 252,
+        "hizbQuarter": 117,
+        "sajda": false
+      }
+    ]
+  ],
+  "20": [
+    [
+      {
+        "number": 2373,
+        "text": "[Moses] said, \"My Lord, expand for me my breast [with assurance]",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 20,
+          "name": "سورة طه",
+          "englishName": "Taa-Haa",
+          "englishNameTranslation": "Taa-Haa",
+          "numberOfAyahs": 135,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 25,
+        "juz": 16,
+        "manzil": 4,
+        "page": 313,
+        "ruku": 271,
+        "hizbQuarter": 125,
+        "sajda": false
+      },
+      {
+        "number": 2373,
+        "text": "کہا اے میرے رب میرا سینہ کھول دے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 20,
+          "name": "سورة طه",
+          "englishName": "Taa-Haa",
+          "englishNameTranslation": "Taa-Haa",
+          "numberOfAyahs": 135,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 25,
+        "juz": 16,
+        "manzil": 4,
+        "page": 313,
+        "ruku": 271,
+        "hizbQuarter": 125,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 2374,
+        "text": "And ease for me my task",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 20,
+          "name": "سورة طه",
+          "englishName": "Taa-Haa",
+          "englishNameTranslation": "Taa-Haa",
+          "numberOfAyahs": 135,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 26,
+        "juz": 16,
+        "manzil": 4,
+        "page": 313,
+        "ruku": 271,
+        "hizbQuarter": 125,
+        "sajda": false
+      },
+      {
+        "number": 2374,
+        "text": "اورمیرا کام آسان کر",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 20,
+          "name": "سورة طه",
+          "englishName": "Taa-Haa",
+          "englishNameTranslation": "Taa-Haa",
+          "numberOfAyahs": 135,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 26,
+        "juz": 16,
+        "manzil": 4,
+        "page": 313,
+        "ruku": 271,
+        "hizbQuarter": 125,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 2462,
+        "text": "So high [above all] is Allah, the Sovereign, the Truth. And, [O Muhammad], do not hasten with [recitation of] the Qur'an before its revelation is completed to you, and say, \"My Lord, increase me in knowledge.\"",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 20,
+          "name": "سورة طه",
+          "englishName": "Taa-Haa",
+          "englishNameTranslation": "Taa-Haa",
+          "numberOfAyahs": 135,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 114,
+        "juz": 16,
+        "manzil": 4,
+        "page": 320,
+        "ruku": 275,
+        "hizbQuarter": 128,
+        "sajda": false
+      },
+      {
+        "number": 2462,
+        "text": "سو الله بادشاہ حقیقی بلند مرتبے والا ہے اور تو قرآن کے لینے میں جلدی نہ کر جب تک اس کا اترنا پورا نہ ہوجائےاور کہہ اے میرے رب مجھے اور زیادہ علم دے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 20,
+          "name": "سورة طه",
+          "englishName": "Taa-Haa",
+          "englishNameTranslation": "Taa-Haa",
+          "numberOfAyahs": 135,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 114,
+        "juz": 16,
+        "manzil": 4,
+        "page": 320,
+        "ruku": 275,
+        "hizbQuarter": 128,
+        "sajda": false
+      }
+    ]
+  ],
+  "21": [
+    [
+      {
+        "number": 2566,
+        "text": "And [mention] Job, when he called to his Lord, \"Indeed, adversity has touched me, and you are the Most Merciful of the merciful.\"",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 21,
+          "name": "سورة الأنبياء",
+          "englishName": "Al-Anbiyaa",
+          "englishNameTranslation": "The Prophets",
+          "numberOfAyahs": 112,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 83,
+        "juz": 17,
+        "manzil": 4,
+        "page": 329,
+        "ruku": 283,
+        "hizbQuarter": 132,
+        "sajda": false
+      },
+      {
+        "number": 2566,
+        "text": "اورجب کہ ایوب نے اپنے رب کو پکارا کہ مجھے روگ لگ گیا ہے حالانکہ تو سب رحم کرنے والوں سے زیادہ رحم کرنے والا ہے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 21,
+          "name": "سورة الأنبياء",
+          "englishName": "Al-Anbiyaa",
+          "englishNameTranslation": "The Prophets",
+          "numberOfAyahs": 112,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 83,
+        "juz": 17,
+        "manzil": 4,
+        "page": 329,
+        "ruku": 283,
+        "hizbQuarter": 132,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 2570,
+        "text": "And [mention] the man of the fish, when he went off in anger and thought that We would not decree [anything] upon him. And he called out within the darknesses, \"There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.\"",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 21,
+          "name": "سورة الأنبياء",
+          "englishName": "Al-Anbiyaa",
+          "englishNameTranslation": "The Prophets",
+          "numberOfAyahs": 112,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 87,
+        "juz": 17,
+        "manzil": 4,
+        "page": 329,
+        "ruku": 283,
+        "hizbQuarter": 132,
+        "sajda": false
+      },
+      {
+        "number": 2570,
+        "text": "اور مچھلی والے کو جب غصہ ہو کر چلا گیا پھر خیال کیا کہ ہم اسے نہیں پکڑیں گے اندھیروں میں پکارا کہ تیرے سوا کوئی معبود نہیں ہے تو بے عیب ہے بے شک میں بے انصافوں میں سے تھا",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 21,
+          "name": "سورة الأنبياء",
+          "englishName": "Al-Anbiyaa",
+          "englishNameTranslation": "The Prophets",
+          "numberOfAyahs": 112,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 87,
+        "juz": 17,
+        "manzil": 4,
+        "page": 329,
+        "ruku": 283,
+        "hizbQuarter": 132,
+        "sajda": false
+      }
+    ]
+  ],
+  "23": [
+    [
+      {
+        "number": 2702,
+        "text": "And say, 'My Lord, let me land at a blessed landing place, and You are the best to accommodate [us].' \"",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 23,
+          "name": "سورة المؤمنون",
+          "englishName": "Al-Muminoon",
+          "englishNameTranslation": "The Believers",
+          "numberOfAyahs": 118,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 29,
+        "juz": 18,
+        "manzil": 4,
+        "page": 344,
+        "ruku": 296,
+        "hizbQuarter": 137,
+        "sajda": false
+      },
+      {
+        "number": 2702,
+        "text": "اور کہہ اے میرے رب مجھے برکت کے ساتھ اتار اور تو بہتر اتارنے والا ہے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 23,
+          "name": "سورة المؤمنون",
+          "englishName": "Al-Muminoon",
+          "englishNameTranslation": "The Believers",
+          "numberOfAyahs": 118,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 29,
+        "juz": 18,
+        "manzil": 4,
+        "page": 344,
+        "ruku": 296,
+        "hizbQuarter": 137,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 2767,
+        "text": "My Lord, then do not place me among the wrongdoing people.\"",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 23,
+          "name": "سورة المؤمنون",
+          "englishName": "Al-Muminoon",
+          "englishNameTranslation": "The Believers",
+          "numberOfAyahs": 118,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 94,
+        "juz": 18,
+        "manzil": 4,
+        "page": 348,
+        "ruku": 300,
+        "hizbQuarter": 139,
+        "sajda": false
+      },
+      {
+        "number": 2767,
+        "text": "تو اے میرے رب مجھے ظالموں میں شامل نہ کر",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 23,
+          "name": "سورة المؤمنون",
+          "englishName": "Al-Muminoon",
+          "englishNameTranslation": "The Believers",
+          "numberOfAyahs": 118,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 94,
+        "juz": 18,
+        "manzil": 4,
+        "page": 348,
+        "ruku": 300,
+        "hizbQuarter": 139,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 2770,
+        "text": "And say, \"My Lord, I seek refuge in You from the incitements of the devils,",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 23,
+          "name": "سورة المؤمنون",
+          "englishName": "Al-Muminoon",
+          "englishNameTranslation": "The Believers",
+          "numberOfAyahs": 118,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 97,
+        "juz": 18,
+        "manzil": 4,
+        "page": 348,
+        "ruku": 300,
+        "hizbQuarter": 139,
+        "sajda": false
+      },
+      {
+        "number": 2770,
+        "text": "اور کہواے میرے رب میں شیطانی خطرات سے تیری پناہ مانگتا ہوں",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 23,
+          "name": "سورة المؤمنون",
+          "englishName": "Al-Muminoon",
+          "englishNameTranslation": "The Believers",
+          "numberOfAyahs": 118,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 97,
+        "juz": 18,
+        "manzil": 4,
+        "page": 348,
+        "ruku": 300,
+        "hizbQuarter": 139,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 2771,
+        "text": "And I seek refuge in You, my Lord, lest they be present with me.\"",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 23,
+          "name": "سورة المؤمنون",
+          "englishName": "Al-Muminoon",
+          "englishNameTranslation": "The Believers",
+          "numberOfAyahs": 118,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 98,
+        "juz": 18,
+        "manzil": 4,
+        "page": 348,
+        "ruku": 300,
+        "hizbQuarter": 139,
+        "sajda": false
+      },
+      {
+        "number": 2771,
+        "text": "اوراےمیرے رب میں تیری پناہ چاہتا ہوں اس سے کہ شیطان میرے پاس آئيں",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 23,
+          "name": "سورة المؤمنون",
+          "englishName": "Al-Muminoon",
+          "englishNameTranslation": "The Believers",
+          "numberOfAyahs": 118,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 98,
+        "juz": 18,
+        "manzil": 4,
+        "page": 348,
+        "ruku": 300,
+        "hizbQuarter": 139,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 2782,
+        "text": "Indeed, there was a party of My servants who said, 'Our Lord, we have believed, so forgive us and have mercy upon us, and You are the best of the merciful.'",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 23,
+          "name": "سورة المؤمنون",
+          "englishName": "Al-Muminoon",
+          "englishNameTranslation": "The Believers",
+          "numberOfAyahs": 118,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 109,
+        "juz": 18,
+        "manzil": 4,
+        "page": 349,
+        "ruku": 300,
+        "hizbQuarter": 139,
+        "sajda": false
+      },
+      {
+        "number": 2782,
+        "text": "میرے بندوں میں سے ایک گروہ تھا جو کہتے تھے اے ہمارے رب ہم ایمان لائے تو ہمیں بخش دے اور ہم پر رحم کرو اور تو بہت بڑا رحم کرنے والا ہے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 23,
+          "name": "سورة المؤمنون",
+          "englishName": "Al-Muminoon",
+          "englishNameTranslation": "The Believers",
+          "numberOfAyahs": 118,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 109,
+        "juz": 18,
+        "manzil": 4,
+        "page": 349,
+        "ruku": 300,
+        "hizbQuarter": 139,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 2791,
+        "text": "And, [O Muhammad], say, \"My Lord, forgive and have mercy, and You are the best of the merciful.\"",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 23,
+          "name": "سورة المؤمنون",
+          "englishName": "Al-Muminoon",
+          "englishNameTranslation": "The Believers",
+          "numberOfAyahs": 118,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 118,
+        "juz": 18,
+        "manzil": 4,
+        "page": 349,
+        "ruku": 300,
+        "hizbQuarter": 139,
+        "sajda": false
+      },
+      {
+        "number": 2791,
+        "text": "اورکہو اے میرے رب معاف کر اور رحم کر اور تو سب سے بہتر رحم کرنے والا ہے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 23,
+          "name": "سورة المؤمنون",
+          "englishName": "Al-Muminoon",
+          "englishNameTranslation": "The Believers",
+          "numberOfAyahs": 118,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 118,
+        "juz": 18,
+        "manzil": 4,
+        "page": 349,
+        "ruku": 300,
+        "hizbQuarter": 139,
+        "sajda": false
+      }
+    ]
+  ],
+  "25": [
+    [
+      {
+        "number": 2920,
+        "text": "And those who say, \"Our Lord, avert from us the punishment of Hell. Indeed, its punishment is ever adhering;",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 25,
+          "name": "سورة الفرقان",
+          "englishName": "Al-Furqaan",
+          "englishNameTranslation": "The Criterion",
+          "numberOfAyahs": 77,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 65,
+        "juz": 19,
+        "manzil": 4,
+        "page": 365,
+        "ruku": 315,
+        "hizbQuarter": 146,
+        "sajda": false
+      },
+      {
+        "number": 2920,
+        "text": "اور وہ لوگ جو کہتے ہیں اے ہمارے رب ہم سے دوزخ کا عذاب دور کر دے بے شک اس کا عذاب پوری تباہی ہے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 25,
+          "name": "سورة الفرقان",
+          "englishName": "Al-Furqaan",
+          "englishNameTranslation": "The Criterion",
+          "numberOfAyahs": 77,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 65,
+        "juz": 19,
+        "manzil": 4,
+        "page": 365,
+        "ruku": 315,
+        "hizbQuarter": 146,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 2929,
+        "text": "And those who say, \"Our Lord, grant us from among our wives and offspring comfort to our eyes and make us an example for the righteous.\"",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 25,
+          "name": "سورة الفرقان",
+          "englishName": "Al-Furqaan",
+          "englishNameTranslation": "The Criterion",
+          "numberOfAyahs": 77,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 74,
+        "juz": 19,
+        "manzil": 4,
+        "page": 366,
+        "ruku": 315,
+        "hizbQuarter": 146,
+        "sajda": false
+      },
+      {
+        "number": 2929,
+        "text": "اور وہ جو کہتے ہیں کہ ہمارے رب ہمیں ہماری بیویوں اور اولاد کی طرف سے آنکھوں کی ٹھنڈک عطا فرما اور ہمیں پرہیزگاروں کا پیشوا بنا دے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 25,
+          "name": "سورة الفرقان",
+          "englishName": "Al-Furqaan",
+          "englishNameTranslation": "The Criterion",
+          "numberOfAyahs": 77,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 74,
+        "juz": 19,
+        "manzil": 4,
+        "page": 366,
+        "ruku": 315,
+        "hizbQuarter": 146,
+        "sajda": false
+      }
+    ]
+  ],
+  "26": [
+    [
+      {
+        "number": 3012,
+        "text": "And when I am ill, it is He who cures me",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 26,
+          "name": "سورة الشعراء",
+          "englishName": "Ash-Shu'araa",
+          "englishNameTranslation": "The Poets",
+          "numberOfAyahs": 227,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 80,
+        "juz": 19,
+        "manzil": 5,
+        "page": 370,
+        "ruku": 320,
+        "hizbQuarter": 148,
+        "sajda": false
+      },
+      {
+        "number": 3012,
+        "text": "اور جب میں بیمار ہوتا ہوں تو وہی مجھے شفا دیتا ہے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 26,
+          "name": "سورة الشعراء",
+          "englishName": "Ash-Shu'araa",
+          "englishNameTranslation": "The Poets",
+          "numberOfAyahs": 227,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 80,
+        "juz": 19,
+        "manzil": 5,
+        "page": 370,
+        "ruku": 320,
+        "hizbQuarter": 148,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 3015,
+        "text": "[And he said], \"My Lord, grant me authority and join me with the righteous.",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 26,
+          "name": "سورة الشعراء",
+          "englishName": "Ash-Shu'araa",
+          "englishNameTranslation": "The Poets",
+          "numberOfAyahs": 227,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 83,
+        "juz": 19,
+        "manzil": 5,
+        "page": 370,
+        "ruku": 320,
+        "hizbQuarter": 148,
+        "sajda": false
+      },
+      {
+        "number": 3015,
+        "text": "اے میرے رب مجھے کمال علم عطا فرما اور مجھے نیکیوں کے ساتھ شامل کر",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 26,
+          "name": "سورة الشعراء",
+          "englishName": "Ash-Shu'araa",
+          "englishNameTranslation": "The Poets",
+          "numberOfAyahs": 227,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 83,
+        "juz": 19,
+        "manzil": 5,
+        "page": 370,
+        "ruku": 320,
+        "hizbQuarter": 148,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 3016,
+        "text": "And grant me a reputation of honor among later generations.",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 26,
+          "name": "سورة الشعراء",
+          "englishName": "Ash-Shu'araa",
+          "englishNameTranslation": "The Poets",
+          "numberOfAyahs": 227,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 84,
+        "juz": 19,
+        "manzil": 5,
+        "page": 371,
+        "ruku": 320,
+        "hizbQuarter": 148,
+        "sajda": false
+      },
+      {
+        "number": 3016,
+        "text": "اور آئندہ آنے والی نسلوں میں میرا ذکر خیر باقی رکھ",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 26,
+          "name": "سورة الشعراء",
+          "englishName": "Ash-Shu'araa",
+          "englishNameTranslation": "The Poets",
+          "numberOfAyahs": 227,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 84,
+        "juz": 19,
+        "manzil": 5,
+        "page": 371,
+        "ruku": 320,
+        "hizbQuarter": 148,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 3017,
+        "text": "And place me among the inheritors of the Garden of Pleasure.",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 26,
+          "name": "سورة الشعراء",
+          "englishName": "Ash-Shu'araa",
+          "englishNameTranslation": "The Poets",
+          "numberOfAyahs": 227,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 85,
+        "juz": 19,
+        "manzil": 5,
+        "page": 371,
+        "ruku": 320,
+        "hizbQuarter": 148,
+        "sajda": false
+      },
+      {
+        "number": 3017,
+        "text": "اور مجھے نعمت کے باغ کے وارثوں میں کر دے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 26,
+          "name": "سورة الشعراء",
+          "englishName": "Ash-Shu'araa",
+          "englishNameTranslation": "The Poets",
+          "numberOfAyahs": 227,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 85,
+        "juz": 19,
+        "manzil": 5,
+        "page": 371,
+        "ruku": 320,
+        "hizbQuarter": 148,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 3018,
+        "text": "And forgive my father. Indeed, he has been of those astray.",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 26,
+          "name": "سورة الشعراء",
+          "englishName": "Ash-Shu'araa",
+          "englishNameTranslation": "The Poets",
+          "numberOfAyahs": 227,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 86,
+        "juz": 19,
+        "manzil": 5,
+        "page": 371,
+        "ruku": 320,
+        "hizbQuarter": 148,
+        "sajda": false
+      },
+      {
+        "number": 3018,
+        "text": "اور میرے باپ کو بخش دے کہ وہ گمراہوں میں سے تھا",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 26,
+          "name": "سورة الشعراء",
+          "englishName": "Ash-Shu'araa",
+          "englishNameTranslation": "The Poets",
+          "numberOfAyahs": 227,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 86,
+        "juz": 19,
+        "manzil": 5,
+        "page": 371,
+        "ruku": 320,
+        "hizbQuarter": 148,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 3019,
+        "text": "And do not disgrace me on the Day they are [all] resurrected -",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 26,
+          "name": "سورة الشعراء",
+          "englishName": "Ash-Shu'araa",
+          "englishNameTranslation": "The Poets",
+          "numberOfAyahs": 227,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 87,
+        "juz": 19,
+        "manzil": 5,
+        "page": 371,
+        "ruku": 320,
+        "hizbQuarter": 148,
+        "sajda": false
+      },
+      {
+        "number": 3019,
+        "text": "اور مجھے ذلیل نہ کر جس دن لوگ اٹھائے جائیں گے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 26,
+          "name": "سورة الشعراء",
+          "englishName": "Ash-Shu'araa",
+          "englishNameTranslation": "The Poets",
+          "numberOfAyahs": 227,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 87,
+        "juz": 19,
+        "manzil": 5,
+        "page": 371,
+        "ruku": 320,
+        "hizbQuarter": 148,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 3020,
+        "text": "The Day when there will not benefit [anyone] wealth or children",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 26,
+          "name": "سورة الشعراء",
+          "englishName": "Ash-Shu'araa",
+          "englishNameTranslation": "The Poets",
+          "numberOfAyahs": 227,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 88,
+        "juz": 19,
+        "manzil": 5,
+        "page": 371,
+        "ruku": 320,
+        "hizbQuarter": 148,
+        "sajda": false
+      },
+      {
+        "number": 3020,
+        "text": "جس دن مال اور اولاد نفع نہیں دے گی",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 26,
+          "name": "سورة الشعراء",
+          "englishName": "Ash-Shu'araa",
+          "englishNameTranslation": "The Poets",
+          "numberOfAyahs": 227,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 88,
+        "juz": 19,
+        "manzil": 5,
+        "page": 371,
+        "ruku": 320,
+        "hizbQuarter": 148,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 3021,
+        "text": "But only one who comes to Allah with a sound heart.\"",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 26,
+          "name": "سورة الشعراء",
+          "englishName": "Ash-Shu'araa",
+          "englishNameTranslation": "The Poets",
+          "numberOfAyahs": 227,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 89,
+        "juz": 19,
+        "manzil": 5,
+        "page": 371,
+        "ruku": 320,
+        "hizbQuarter": 148,
+        "sajda": false
+      },
+      {
+        "number": 3021,
+        "text": "مگر جو الله کے پاس پاک دل لے کر آیا",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 26,
+          "name": "سورة الشعراء",
+          "englishName": "Ash-Shu'araa",
+          "englishNameTranslation": "The Poets",
+          "numberOfAyahs": 227,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 89,
+        "juz": 19,
+        "manzil": 5,
+        "page": 371,
+        "ruku": 320,
+        "hizbQuarter": 148,
+        "sajda": false
+      }
+    ]
+  ],
+  "27": [
+    [
+      {
+        "number": 3178,
+        "text": "So [Solomon] smiled, amused at her speech, and said, \"My Lord, enable me to be grateful for Your favor which You have bestowed upon me and upon my parents and to do righteousness of which You approve. And admit me by Your mercy into [the ranks of] Your righteous servants.\"",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 27,
+          "name": "سورة النمل",
+          "englishName": "An-Naml",
+          "englishNameTranslation": "The Ant",
+          "numberOfAyahs": 93,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 19,
+        "juz": 19,
+        "manzil": 5,
+        "page": 378,
+        "ruku": 328,
+        "hizbQuarter": 151,
+        "sajda": false
+      },
+      {
+        "number": 3178,
+        "text": "پھر اس کی بات سے مسکرا کر ہنس پڑا اور کہا اے میرے رب مجھے توفیق دے کہ میں تیرے احسان کا شکر کروں جو تو نے مجھ پر اور میرے ماں باپ پر کیا اور یہ کہ میں نیک کام کروں جوتو پسند کرے اور مجھے اپنی رحمت سے اپنے نیک بندوں میں شامل کر لے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 27,
+          "name": "سورة النمل",
+          "englishName": "An-Naml",
+          "englishNameTranslation": "The Ant",
+          "numberOfAyahs": 93,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 19,
+        "juz": 19,
+        "manzil": 5,
+        "page": 378,
+        "ruku": 328,
+        "hizbQuarter": 151,
+        "sajda": false
+      }
+    ]
+  ],
+  "28": [
+    [
+      {
+        "number": 3268,
+        "text": "He said, \"My Lord, indeed I have wronged myself, so forgive me,\" and He forgave him. Indeed, He is the Forgiving, the Merciful.",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 28,
+          "name": "سورة القصص",
+          "englishName": "Al-Qasas",
+          "englishNameTranslation": "The Stories",
+          "numberOfAyahs": 88,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 16,
+        "juz": 20,
+        "manzil": 5,
+        "page": 387,
+        "ruku": 335,
+        "hizbQuarter": 155,
+        "sajda": false
+      },
+      {
+        "number": 3268,
+        "text": "کہا اے میرے رب! بے شک میں نے اپنی جان پر ظلم کیا سو مجھے بخش دے پھر اسے بخش دیا بے شک وہ بخشنے والا مہربان ہے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 28,
+          "name": "سورة القصص",
+          "englishName": "Al-Qasas",
+          "englishNameTranslation": "The Stories",
+          "numberOfAyahs": 88,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 16,
+        "juz": 20,
+        "manzil": 5,
+        "page": 387,
+        "ruku": 335,
+        "hizbQuarter": 155,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 3269,
+        "text": "He said, \"My Lord, for the favor You bestowed upon me, I will never be an assistant to the criminals.\"",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 28,
+          "name": "سورة القصص",
+          "englishName": "Al-Qasas",
+          "englishNameTranslation": "The Stories",
+          "numberOfAyahs": 88,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 17,
+        "juz": 20,
+        "manzil": 5,
+        "page": 387,
+        "ruku": 335,
+        "hizbQuarter": 155,
+        "sajda": false
+      },
+      {
+        "number": 3269,
+        "text": "کہا اے میرے رب! جیسا تو نے مجھ پر فضل کیا ہے پھر میں گناہگاروں کا کبھی مددگار نہیں ہوں گا",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 28,
+          "name": "سورة القصص",
+          "englishName": "Al-Qasas",
+          "englishNameTranslation": "The Stories",
+          "numberOfAyahs": 88,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 17,
+        "juz": 20,
+        "manzil": 5,
+        "page": 387,
+        "ruku": 335,
+        "hizbQuarter": 155,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 3273,
+        "text": "So he left it, fearful and anticipating [apprehension]. He said, \"My Lord, save me from the wrongdoing people.\"",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 28,
+          "name": "سورة القصص",
+          "englishName": "Al-Qasas",
+          "englishNameTranslation": "The Stories",
+          "numberOfAyahs": 88,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 21,
+        "juz": 20,
+        "manzil": 5,
+        "page": 387,
+        "ruku": 335,
+        "hizbQuarter": 155,
+        "sajda": false
+      },
+      {
+        "number": 3273,
+        "text": "پھر وہاں سے ڈرتا انتظار کرتا ہوا نکلا کہا اے میرے رب! مجھے ظالم قوم سے بچا لے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 28,
+          "name": "سورة القصص",
+          "englishName": "Al-Qasas",
+          "englishNameTranslation": "The Stories",
+          "numberOfAyahs": 88,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 21,
+        "juz": 20,
+        "manzil": 5,
+        "page": 387,
+        "ruku": 335,
+        "hizbQuarter": 155,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 3276,
+        "text": "So he watered [their flocks] for them; then he went back to the shade and said, \"My Lord, indeed I am, for whatever good You would send down to me, in need.\"",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 28,
+          "name": "سورة القصص",
+          "englishName": "Al-Qasas",
+          "englishNameTranslation": "The Stories",
+          "numberOfAyahs": 88,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 24,
+        "juz": 20,
+        "manzil": 5,
+        "page": 388,
+        "ruku": 336,
+        "hizbQuarter": 155,
+        "sajda": false
+      },
+      {
+        "number": 3276,
+        "text": "پھر ان کے جانوروں کو پانی پلا دیا پھر سایہ کی طرف ہٹ کر آیا کہ اے میرے رب تو میری طرف جو اچھی چیز اتارے میں اس کا محتاج ہوں",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 28,
+          "name": "سورة القصص",
+          "englishName": "Al-Qasas",
+          "englishNameTranslation": "The Stories",
+          "numberOfAyahs": 88,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 24,
+        "juz": 20,
+        "manzil": 5,
+        "page": 388,
+        "ruku": 336,
+        "hizbQuarter": 155,
+        "sajda": false
+      }
+    ]
+  ],
+  "29": [
+    [
+      {
+        "number": 3370,
+        "text": "He said, \"My Lord, support me against the corrupting people.\"",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 29,
+          "name": "سورة العنكبوت",
+          "englishName": "Al-Ankaboot",
+          "englishNameTranslation": "The Spider",
+          "numberOfAyahs": 69,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 30,
+        "juz": 20,
+        "manzil": 5,
+        "page": 399,
+        "ruku": 344,
+        "hizbQuarter": 160,
+        "sajda": false
+      },
+      {
+        "number": 3370,
+        "text": "کہا اے میرے رب ان شریر لوگو ں پر میری مدد کر",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 29,
+          "name": "سورة العنكبوت",
+          "englishName": "Al-Ankaboot",
+          "englishNameTranslation": "The Spider",
+          "numberOfAyahs": 69,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 30,
+        "juz": 20,
+        "manzil": 5,
+        "page": 399,
+        "ruku": 344,
+        "hizbQuarter": 160,
+        "sajda": false
+      }
+    ]
+  ],
+  "35": [
+    [
+      {
+        "number": 3694,
+        "text": "And they will say, \"Praise to Allah, who has removed from us [all] sorrow. Indeed, our Lord is Forgiving and Appreciative -",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 35,
+          "name": "سورة فاطر",
+          "englishName": "Faatir",
+          "englishNameTranslation": "The Originator",
+          "numberOfAyahs": 45,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 34,
+        "juz": 22,
+        "manzil": 5,
+        "page": 438,
+        "ruku": 379,
+        "hizbQuarter": 175,
+        "sajda": false
+      },
+      {
+        "number": 3694,
+        "text": "اور وہ کہیں گے الله کا شکر ہے جس نے ہم سے غم دور کر دیا بے شک ہمارا رب بخشنے والا قدردان ہے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 35,
+          "name": "سورة فاطر",
+          "englishName": "Faatir",
+          "englishNameTranslation": "The Originator",
+          "numberOfAyahs": 45,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 34,
+        "juz": 22,
+        "manzil": 5,
+        "page": 438,
+        "ruku": 379,
+        "hizbQuarter": 175,
+        "sajda": false
+      }
+    ]
+  ],
+  "37": [
+    [
+      {
+        "number": 3888,
+        "text": "My Lord, grant me [a child] from among the righteous.\"",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 37,
+          "name": "سورة الصافات",
+          "englishName": "As-Saaffaat",
+          "englishNameTranslation": "Those drawn up in Ranks",
+          "numberOfAyahs": 182,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 100,
+        "juz": 23,
+        "manzil": 6,
+        "page": 449,
+        "ruku": 388,
+        "hizbQuarter": 180,
+        "sajda": false
+      },
+      {
+        "number": 3888,
+        "text": "اے میرے رب! مجھے ایک صالح (لڑکا) عطا کر",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 37,
+          "name": "سورة الصافات",
+          "englishName": "As-Saaffaat",
+          "englishNameTranslation": "Those drawn up in Ranks",
+          "numberOfAyahs": 182,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 100,
+        "juz": 23,
+        "manzil": 6,
+        "page": 449,
+        "ruku": 388,
+        "hizbQuarter": 180,
+        "sajda": false
+      }
+    ]
+  ],
+  "40": [
+    [
+      {
+        "number": 4140,
+        "text": "Those [angels] who carry the Throne and those around it exalt [Allah] with praise of their Lord and believe in Him and ask forgiveness for those who have believed, [saying], \"Our Lord, You have encompassed all things in mercy and knowledge, so forgive those who have repented and followed Your way and protect them from the punishment of Hellfire.",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 40,
+          "name": "سورة غافر",
+          "englishName": "Ghafir",
+          "englishNameTranslation": "The Forgiver",
+          "numberOfAyahs": 85,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 7,
+        "juz": 24,
+        "manzil": 6,
+        "page": 467,
+        "ruku": 404,
+        "hizbQuarter": 187,
+        "sajda": false
+      },
+      {
+        "number": 4140,
+        "text": "جو (فرشتے) عرش کو اٹھائے ہوئے ہیں اور جو اس کے گرد ہیں وہ اپنے رب کی حمد کے ساتھ تسبیح کرتے رہتے ہیں اور اس پر ایمان لاتے ہیں اور ایمانداروں کے لیے بخشش مانگتے ہیں کہ اے ہمارے رب تیری رحمت اور تیرا علم سب پر حاوی ہے پھر جن لوگو ں نے توبہ کی ہے اور تیرے راستے پر چلتے ہیں انہیں بخش دے اور انہیں دوزخ کے عذاب سے بچا لے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 40,
+          "name": "سورة غافر",
+          "englishName": "Ghafir",
+          "englishNameTranslation": "The Forgiver",
+          "numberOfAyahs": 85,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 7,
+        "juz": 24,
+        "manzil": 6,
+        "page": 467,
+        "ruku": 404,
+        "hizbQuarter": 187,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 4141,
+        "text": "Our Lord, and admit them to gardens of perpetual residence which You have promised them and whoever was righteous among their fathers, their spouses and their offspring. Indeed, it is You who is the Exalted in Might, the Wise.",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 40,
+          "name": "سورة غافر",
+          "englishName": "Ghafir",
+          "englishNameTranslation": "The Forgiver",
+          "numberOfAyahs": 85,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 8,
+        "juz": 24,
+        "manzil": 6,
+        "page": 468,
+        "ruku": 404,
+        "hizbQuarter": 187,
+        "sajda": false
+      },
+      {
+        "number": 4141,
+        "text": "اے ہمارے رب اور انہیں بہشتوں میں داخل کر جو ہمیشہ رہیں گی جن کا تو نے ان سے وعدہ کیا ہے اور ان کو جو ان کے باپ دادوں اوران کی بیویوں اوران کی اولاد میں سے نیک ہیں بے شک تو غالب حکمت والا ہے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 40,
+          "name": "سورة غافر",
+          "englishName": "Ghafir",
+          "englishNameTranslation": "The Forgiver",
+          "numberOfAyahs": 85,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 8,
+        "juz": 24,
+        "manzil": 6,
+        "page": 468,
+        "ruku": 404,
+        "hizbQuarter": 187,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 4142,
+        "text": "And protect them from the evil consequences [of their deeds]. And he whom You protect from evil consequences that Day - You will have given him mercy. And that is the great attainment.\"",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 40,
+          "name": "سورة غافر",
+          "englishName": "Ghafir",
+          "englishNameTranslation": "The Forgiver",
+          "numberOfAyahs": 85,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 9,
+        "juz": 24,
+        "manzil": 6,
+        "page": 468,
+        "ruku": 404,
+        "hizbQuarter": 187,
+        "sajda": false
+      },
+      {
+        "number": 4142,
+        "text": "اور انہیں برائیوں سے بچا اور جس کو تو اس دن برائیوں سے بچائے گا سو اس پر تو نے رحم کر دیا اور یہ بڑی کامیابی ہے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 40,
+          "name": "سورة غافر",
+          "englishName": "Ghafir",
+          "englishNameTranslation": "The Forgiver",
+          "numberOfAyahs": 85,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 9,
+        "juz": 24,
+        "manzil": 6,
+        "page": 468,
+        "ruku": 404,
+        "hizbQuarter": 187,
+        "sajda": false
+      }
+    ]
+  ],
+  "44": [
+    [
+      {
+        "number": 4426,
+        "text": "[They will say], \"Our Lord, remove from us the torment; indeed, we are believers.\"",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 44,
+          "name": "سورة الدخان",
+          "englishName": "Ad-Dukhaan",
+          "englishNameTranslation": "The Smoke",
+          "numberOfAyahs": 59,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 12,
+        "juz": 25,
+        "manzil": 6,
+        "page": 496,
+        "ruku": 431,
+        "hizbQuarter": 198,
+        "sajda": false
+      },
+      {
+        "number": 4426,
+        "text": "اے ہمارے رب ہم سے یہ عذاب دور کر دے بے شک ہم ایمان لانے والے ہیں",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 44,
+          "name": "سورة الدخان",
+          "englishName": "Ad-Dukhaan",
+          "englishNameTranslation": "The Smoke",
+          "numberOfAyahs": 59,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 12,
+        "juz": 25,
+        "manzil": 6,
+        "page": 496,
+        "ruku": 431,
+        "hizbQuarter": 198,
+        "sajda": false
+      }
+    ]
+  ],
+  "46": [
+    [
+      {
+        "number": 4525,
+        "text": "And We have enjoined upon man, to his parents, good treatment. His mother carried him with hardship and gave birth to him with hardship, and his gestation and weaning [period] is thirty months. [He grows] until, when he reaches maturity and reaches [the age of] forty years, he says, \"My Lord, enable me to be grateful for Your favor which You have bestowed upon me and upon my parents and to work righteousness of which You will approve and make righteous for me my offspring. Indeed, I have repented to You, and indeed, I am of the Muslims.\"",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 46,
+          "name": "سورة الأحقاف",
+          "englishName": "Al-Ahqaf",
+          "englishNameTranslation": "The Dunes",
+          "numberOfAyahs": 35,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 15,
+        "juz": 26,
+        "manzil": 6,
+        "page": 504,
+        "ruku": 439,
+        "hizbQuarter": 201,
+        "sajda": false
+      },
+      {
+        "number": 4525,
+        "text": "اور ہم نے انسان کو اپنے والدین کے ساتھ نیکی کرنے کی تاکید کی کہ اسے اس کی ماں نے تکلیف سے اٹھائے رکھا اور اسے تکلیف سے جنا اوراس کا حمل اور دودھ کا چھڑانا تیس مہینے ہیں یہاں تک کہ جب وہ اپنی جوانی کو پہنچا اور چالیں سال کی عمر کو پہنچا تو اس نے کہا اے میرے رب مجھے توفیق دے کہ میں تیری نعمت کا شکر ادا کروں جو تو نے مجھ پر انعام کی اور میرے والدین پر اور میں نیک عمل کروں جسے تو پسند کرے اور میرے لیے میری اولاد میں اصلاح کر بے شک میں تیری طرف رجوع کرتا ہوں اور بے شک میں فرمانبردار میں ہوں",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 46,
+          "name": "سورة الأحقاف",
+          "englishName": "Al-Ahqaf",
+          "englishNameTranslation": "The Dunes",
+          "numberOfAyahs": 35,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 15,
+        "juz": 26,
+        "manzil": 6,
+        "page": 504,
+        "ruku": 439,
+        "hizbQuarter": 201,
+        "sajda": false
+      }
+    ]
+  ],
+  "59": [
+    [
+      {
+        "number": 5136,
+        "text": "And [there is a share for] those who came after them, saying, \"Our Lord, forgive us and our brothers who preceded us in faith and put not in our hearts [any] resentment toward those who have believed. Our Lord, indeed You are Kind and Merciful.\"",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 59,
+          "name": "سورة الحشر",
+          "englishName": "Al-Hashr",
+          "englishNameTranslation": "The Exile",
+          "numberOfAyahs": 24,
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 10,
+        "juz": 28,
+        "manzil": 7,
+        "page": 547,
+        "ruku": 479,
+        "hizbQuarter": 218,
+        "sajda": false
+      },
+      {
+        "number": 5136,
+        "text": "اور ان کے لیے بھی جو مہاجرین کے بعد آئے (اور) دعا مانگا کرتے ہیں کہ اے ہمارے رب ہمیں اور ہمارےان بھائیوں کو بخش دے جو ہم سے پہلے ایمان لائے ہیں اور ہمارے دلوں میں ایمانداروں کی طرف سے کینہ قائم نہ ہونے پائے اے ہمارے رب بے شک تو بڑا مہربان نہایت رحم والا ہے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 59,
+          "name": "سورة الحشر",
+          "englishName": "Al-Hashr",
+          "englishNameTranslation": "The Exile",
+          "numberOfAyahs": 24,
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 10,
+        "juz": 28,
+        "manzil": 7,
+        "page": 547,
+        "ruku": 479,
+        "hizbQuarter": 218,
+        "sajda": false
+      }
+    ]
+  ],
+  "60": [
+    [
+      {
+        "number": 5154,
+        "text": "There has already been for you an excellent pattern in Abraham and those with him, when they said to their people, \"Indeed, we are disassociated from you and from whatever you worship other than Allah. We have denied you, and there has appeared between us and you animosity and hatred forever until you believe in Allah alone\" except for the saying of Abraham to his father, \"I will surely ask forgiveness for you, but I have not [power to do] for you anything against Allah. Our Lord, upon You we have relied, and to You we have returned, and to You is the destination.",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 60,
+          "name": "سورة الممتحنة",
+          "englishName": "Al-Mumtahana",
+          "englishNameTranslation": "She that is to be examined",
+          "numberOfAyahs": 13,
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 4,
+        "juz": 28,
+        "manzil": 7,
+        "page": 549,
+        "ruku": 482,
+        "hizbQuarter": 219,
+        "sajda": false
+      },
+      {
+        "number": 5154,
+        "text": "بے شک تمہارے لیے ابراہیم میں اچھا نمونہ ہے اوران لوگوں میں جو اس کے ہمراہ تھے جب کہ انہوں نے اپنی قوم سے کہا تھا بے شک ہم تم سے بیزار ہیں اور ان سے جنہیں تم الله کے سوا پوجتے ہو ہم نے تمہارا انکار کر دیا اور ہمارے او رتمہارے درمیان دشمنی اور بیَر ہمیشہ کے لیے ظاہر ہو گیا یہاں تک کہ تم ایک الله پر ایمان لاؤ مگر ابراھیم کا اپنے باپ سے کہنا کہ میں تمہارے لیے معافی مانگوں گا اور میں الله کی طرف سے تمہارے لیے کسی بات کا مالک بھی نہیں ہوں اے ہمارے رب ہم نے تجھ ہی پر بھروسہ کیا اور تیری ہی طرف ہم رجوع ہوئے اور تیری ہی طرف لوٹنا ہے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 60,
+          "name": "سورة الممتحنة",
+          "englishName": "Al-Mumtahana",
+          "englishNameTranslation": "She that is to be examined",
+          "numberOfAyahs": 13,
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 4,
+        "juz": 28,
+        "manzil": 7,
+        "page": 549,
+        "ruku": 482,
+        "hizbQuarter": 219,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 5155,
+        "text": "Our Lord, make us not [objects of] torment for the disbelievers and forgive us, our Lord. Indeed, it is You who is the Exalted in Might, the Wise.\"",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 60,
+          "name": "سورة الممتحنة",
+          "englishName": "Al-Mumtahana",
+          "englishNameTranslation": "She that is to be examined",
+          "numberOfAyahs": 13,
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 5,
+        "juz": 28,
+        "manzil": 7,
+        "page": 549,
+        "ruku": 482,
+        "hizbQuarter": 219,
+        "sajda": false
+      },
+      {
+        "number": 5155,
+        "text": "اے ہمارے رب ہمیں ان کا تختہ مشق نہ بنا جو کافر ہیں اور اے ہمارے رب ہمیں معاف کر بے شک تو ہی غالب حکمت والا ہے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 60,
+          "name": "سورة الممتحنة",
+          "englishName": "Al-Mumtahana",
+          "englishNameTranslation": "She that is to be examined",
+          "numberOfAyahs": 13,
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 5,
+        "juz": 28,
+        "manzil": 7,
+        "page": 549,
+        "ruku": 482,
+        "hizbQuarter": 219,
+        "sajda": false
+      }
+    ]
+  ],
+  "66": [
+    [
+      {
+        "number": 5237,
+        "text": "O you who have believed, repent to Allah with sincere repentance. Perhaps your Lord will remove from you your misdeeds and admit you into gardens beneath which rivers flow [on] the Day when Allah will not disgrace the Prophet and those who believed with him. Their light will proceed before them and on their right; they will say, \"Our Lord, perfect for us our light and forgive us. Indeed, You are over all things competent.\"",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 66,
+          "name": "سورة التحريم",
+          "englishName": "At-Tahrim",
+          "englishNameTranslation": "The Prohibition",
+          "numberOfAyahs": 12,
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 8,
+        "juz": 28,
+        "manzil": 7,
+        "page": 561,
+        "ruku": 495,
+        "hizbQuarter": 224,
+        "sajda": false
+      },
+      {
+        "number": 5237,
+        "text": "اے ایمان والو الله کے سامنے خالص توبہ کرو کچھ بعید نہیں کہ تمہارا رب تم سے تمہارے گناہ دور کر دے اور تمہیں بہشتوں میں داخل کرے جن کے نیچے نہریں بہتی ہوں گی جس دن الله اپنے نبی کو اور ان کو جو اس کے ساتھ ایمان لائے رسوا نہیں کرے گا ان کا نور ان کے آگے اور ان کے دائیں دوڑ رہا ہوگا وہ کہہ رہے ہوں گے اے ہمارے رب ہمارے لیے ہمارا نور پورا کر اور ہمیں بخش دے بے شک تو ہر چیز پر قادر ہے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 66,
+          "name": "سورة التحريم",
+          "englishName": "At-Tahrim",
+          "englishNameTranslation": "The Prohibition",
+          "numberOfAyahs": 12,
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 8,
+        "juz": 28,
+        "manzil": 7,
+        "page": 561,
+        "ruku": 495,
+        "hizbQuarter": 224,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 5238,
+        "text": "O Prophet, strive against the disbelievers and the hypocrites and be harsh upon them. And their refuge is Hell, and wretched is the destination.",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 66,
+          "name": "سورة التحريم",
+          "englishName": "At-Tahrim",
+          "englishNameTranslation": "The Prohibition",
+          "numberOfAyahs": 12,
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 9,
+        "juz": 28,
+        "manzil": 7,
+        "page": 561,
+        "ruku": 495,
+        "hizbQuarter": 224,
+        "sajda": false
+      },
+      {
+        "number": 5238,
+        "text": "اے نبی کافروں اور منافقوں سے جہاد کر اور ان پر سختی کر اور انکا ٹھکانا دوزخ ہے اور وہ بہت ہی بری جگہ ہے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 66,
+          "name": "سورة التحريم",
+          "englishName": "At-Tahrim",
+          "englishNameTranslation": "The Prohibition",
+          "numberOfAyahs": 12,
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 9,
+        "juz": 28,
+        "manzil": 7,
+        "page": 561,
+        "ruku": 495,
+        "hizbQuarter": 224,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 5239,
+        "text": "Allah presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so those prophets did not avail them from Allah at all, and it was said, \"Enter the Fire with those who enter.\"",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 66,
+          "name": "سورة التحريم",
+          "englishName": "At-Tahrim",
+          "englishNameTranslation": "The Prohibition",
+          "numberOfAyahs": 12,
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 10,
+        "juz": 28,
+        "manzil": 7,
+        "page": 561,
+        "ruku": 495,
+        "hizbQuarter": 224,
+        "sajda": false
+      },
+      {
+        "number": 5239,
+        "text": "الله کافرو ں کے لیے ایک مثال بیان کرتا ہے نوح اور لوط کی بیوی کی وہ ہمارے دو نیک بندوں کے نکاح میں تھیں پھر ان دونوں نے ان کی خیانت کی سو وہ الله کے غضب سے بچانے میں ان کے کچھ بھی کام نہ آئے اور کہا جائے گا دونوں دوزخ میں داخل ہونے والوں کے ساتھ داخل ہو جاؤ",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 66,
+          "name": "سورة التحريم",
+          "englishName": "At-Tahrim",
+          "englishNameTranslation": "The Prohibition",
+          "numberOfAyahs": 12,
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 10,
+        "juz": 28,
+        "manzil": 7,
+        "page": 561,
+        "ruku": 495,
+        "hizbQuarter": 224,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 5240,
+        "text": "And Allah presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\"",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 66,
+          "name": "سورة التحريم",
+          "englishName": "At-Tahrim",
+          "englishNameTranslation": "The Prohibition",
+          "numberOfAyahs": 12,
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 11,
+        "juz": 28,
+        "manzil": 7,
+        "page": 561,
+        "ruku": 495,
+        "hizbQuarter": 224,
+        "sajda": false
+      },
+      {
+        "number": 5240,
+        "text": "اور الله ایمان داروں کے لیے فرعون کی بیوی کی مثال بیان کرتا ہے جب اس نے کہاکہ اے میرے رب میرے لیے اپنے پاس جنت میں ایک گھر بنا اور مجھے فرعون اور اس کے کام سے نجات دے اور مجھے ظالموں کی قوم سے نجات دے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 66,
+          "name": "سورة التحريم",
+          "englishName": "At-Tahrim",
+          "englishNameTranslation": "The Prohibition",
+          "numberOfAyahs": 12,
+          "revelationType": "Medinan"
+        },
+        "numberInSurah": 11,
+        "juz": 28,
+        "manzil": 7,
+        "page": 561,
+        "ruku": 495,
+        "hizbQuarter": 224,
+        "sajda": false
+      }
+    ]
+  ],
+  "71": [
+    [
+      {
+        "number": 5447,
+        "text": "My Lord, forgive me and my parents and whoever enters my house a believer and the believing men and believing women. And do not increase the wrongdoers except in destruction.\"",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 71,
+          "name": "سورة نوح",
+          "englishName": "Nooh",
+          "englishNameTranslation": "Noah",
+          "numberOfAyahs": 28,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 28,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      },
+      {
+        "number": 5447,
+        "text": "اے میرے رب مجھے اور میرے ماں باپ کو بخش دے اور اس کی جو میرے گھر میں ایماندار ہو کر داخل ہوجائے اور ایماندار مردوں اور عورتوں کو اور ظالموں کو تو بربادی کے سوا اور کچھ زیادہ نہ کر",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 71,
+          "name": "سورة نوح",
+          "englishName": "Nooh",
+          "englishNameTranslation": "Noah",
+          "numberOfAyahs": 28,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 28,
+        "juz": 29,
+        "manzil": 7,
+        "page": 571,
+        "ruku": 505,
+        "hizbQuarter": 228,
+        "sajda": false
+      }
+    ]
+  ],
+  "112": [
+    [
+      {
+        "number": 6222,
+        "text": "Say, \"He is Allah, [who is] One,",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 112,
+          "name": "سورة الإخلاص",
+          "englishName": "Al-Ikhlaas",
+          "englishNameTranslation": "Sincerity",
+          "numberOfAyahs": 4,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 554,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6222,
+        "text": "کہہ دووہ الله ایک ہے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 112,
+          "name": "سورة الإخلاص",
+          "englishName": "Al-Ikhlaas",
+          "englishNameTranslation": "Sincerity",
+          "numberOfAyahs": 4,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 554,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 6223,
+        "text": "Allah, the Eternal Refuge.",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 112,
+          "name": "سورة الإخلاص",
+          "englishName": "Al-Ikhlaas",
+          "englishNameTranslation": "Sincerity",
+          "numberOfAyahs": 4,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 554,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6223,
+        "text": "اللہ بے نیاز ہے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 112,
+          "name": "سورة الإخلاص",
+          "englishName": "Al-Ikhlaas",
+          "englishNameTranslation": "Sincerity",
+          "numberOfAyahs": 4,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 554,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 6224,
+        "text": "He neither begets nor is born,",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 112,
+          "name": "سورة الإخلاص",
+          "englishName": "Al-Ikhlaas",
+          "englishNameTranslation": "Sincerity",
+          "numberOfAyahs": 4,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 554,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6224,
+        "text": "نہ اس کی کوئی اولاد ہے اور نہ وہ کسی کی اولاد ہے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 112,
+          "name": "سورة الإخلاص",
+          "englishName": "Al-Ikhlaas",
+          "englishNameTranslation": "Sincerity",
+          "numberOfAyahs": 4,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 554,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 6225,
+        "text": "Nor is there to Him any equivalent.\"",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 112,
+          "name": "سورة الإخلاص",
+          "englishName": "Al-Ikhlaas",
+          "englishNameTranslation": "Sincerity",
+          "numberOfAyahs": 4,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 554,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6225,
+        "text": "اور اس کے برابر کا کوئی نہیں ہے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 112,
+          "name": "سورة الإخلاص",
+          "englishName": "Al-Ikhlaas",
+          "englishNameTranslation": "Sincerity",
+          "numberOfAyahs": 4,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 554,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ]
+  ],
+  "113": [
+    [
+      {
+        "number": 6226,
+        "text": "Say, \"I seek refuge in the Lord of daybreak",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 113,
+          "name": "سورة الفلق",
+          "englishName": "Al-Falaq",
+          "englishNameTranslation": "The Dawn",
+          "numberOfAyahs": 5,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6226,
+        "text": "کہہ دو صبح کے پیدا کرنے والے کی پناہ مانگتا ہوں",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 113,
+          "name": "سورة الفلق",
+          "englishName": "Al-Falaq",
+          "englishNameTranslation": "The Dawn",
+          "numberOfAyahs": 5,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 6227,
+        "text": "From the evil of that which He created",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 113,
+          "name": "سورة الفلق",
+          "englishName": "Al-Falaq",
+          "englishNameTranslation": "The Dawn",
+          "numberOfAyahs": 5,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6227,
+        "text": "اس کی مخلوقات کے شر سے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 113,
+          "name": "سورة الفلق",
+          "englishName": "Al-Falaq",
+          "englishNameTranslation": "The Dawn",
+          "numberOfAyahs": 5,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 6228,
+        "text": "And from the evil of darkness when it settles",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 113,
+          "name": "سورة الفلق",
+          "englishName": "Al-Falaq",
+          "englishNameTranslation": "The Dawn",
+          "numberOfAyahs": 5,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6228,
+        "text": "اور اندھیری رات کے شر سے جب وہ چھا جائے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 113,
+          "name": "سورة الفلق",
+          "englishName": "Al-Falaq",
+          "englishNameTranslation": "The Dawn",
+          "numberOfAyahs": 5,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 6229,
+        "text": "And from the evil of the blowers in knots",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 113,
+          "name": "سورة الفلق",
+          "englishName": "Al-Falaq",
+          "englishNameTranslation": "The Dawn",
+          "numberOfAyahs": 5,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6229,
+        "text": "اورگرہوں میں پھونکنے والیوں کے شر سے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 113,
+          "name": "سورة الفلق",
+          "englishName": "Al-Falaq",
+          "englishNameTranslation": "The Dawn",
+          "numberOfAyahs": 5,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 6230,
+        "text": "And from the evil of an envier when he envies.\"",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 113,
+          "name": "سورة الفلق",
+          "englishName": "Al-Falaq",
+          "englishNameTranslation": "The Dawn",
+          "numberOfAyahs": 5,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6230,
+        "text": "اور حسد کرنے والے کے شر سے جب وہ حسد کرے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 113,
+          "name": "سورة الفلق",
+          "englishName": "Al-Falaq",
+          "englishNameTranslation": "The Dawn",
+          "numberOfAyahs": 5,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 555,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ]
+  ],
+  "114": [
+    [
+      {
+        "number": 6231,
+        "text": "Say, \"I seek refuge in the Lord of mankind,",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 114,
+          "name": "سورة الناس",
+          "englishName": "An-Naas",
+          "englishNameTranslation": "Mankind",
+          "numberOfAyahs": 6,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 556,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6231,
+        "text": "کہہ دو میں لوگوں کے رب کی پناہ میں آیا",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 114,
+          "name": "سورة الناس",
+          "englishName": "An-Naas",
+          "englishNameTranslation": "Mankind",
+          "numberOfAyahs": 6,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 1,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 556,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 6232,
+        "text": "The Sovereign of mankind.",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 114,
+          "name": "سورة الناس",
+          "englishName": "An-Naas",
+          "englishNameTranslation": "Mankind",
+          "numberOfAyahs": 6,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 556,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6232,
+        "text": "لوگوں کے بادشاہ کی",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 114,
+          "name": "سورة الناس",
+          "englishName": "An-Naas",
+          "englishNameTranslation": "Mankind",
+          "numberOfAyahs": 6,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 2,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 556,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 6233,
+        "text": "The God of mankind,",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 114,
+          "name": "سورة الناس",
+          "englishName": "An-Naas",
+          "englishNameTranslation": "Mankind",
+          "numberOfAyahs": 6,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 556,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6233,
+        "text": "لوگوں کے معبود کی",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 114,
+          "name": "سورة الناس",
+          "englishName": "An-Naas",
+          "englishNameTranslation": "Mankind",
+          "numberOfAyahs": 6,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 3,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 556,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 6234,
+        "text": "From the evil of the retreating whisperer -",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 114,
+          "name": "سورة الناس",
+          "englishName": "An-Naas",
+          "englishNameTranslation": "Mankind",
+          "numberOfAyahs": 6,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 556,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6234,
+        "text": "اس شیطان کے شر سے جووسوسہ ڈال کر چھپ جاتا ہے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 114,
+          "name": "سورة الناس",
+          "englishName": "An-Naas",
+          "englishNameTranslation": "Mankind",
+          "numberOfAyahs": 6,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 4,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 556,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 6235,
+        "text": "Who whispers [evil] into the breasts of mankind -",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 114,
+          "name": "سورة الناس",
+          "englishName": "An-Naas",
+          "englishNameTranslation": "Mankind",
+          "numberOfAyahs": 6,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 556,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6235,
+        "text": "جو لوگوں کے سینوں میں وسوسہ ڈالتا ہے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 114,
+          "name": "سورة الناس",
+          "englishName": "An-Naas",
+          "englishNameTranslation": "Mankind",
+          "numberOfAyahs": 6,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 5,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 556,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ],
+    [
+      {
+        "number": 6236,
+        "text": "From among the jinn and mankind.\"",
+        "edition": {
+          "identifier": "en.sahih",
+          "language": "en",
+          "name": "Saheeh International",
+          "englishName": "Saheeh International",
+          "format": "text",
+          "type": "translation",
+          "direction": "ltr"
+        },
+        "surah": {
+          "number": 114,
+          "name": "سورة الناس",
+          "englishName": "An-Naas",
+          "englishNameTranslation": "Mankind",
+          "numberOfAyahs": 6,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 556,
+        "hizbQuarter": 240,
+        "sajda": false
+      },
+      {
+        "number": 6236,
+        "text": "جنوں اور انسانوں میں سے",
+        "edition": {
+          "identifier": "ur.ahmedali",
+          "language": "ur",
+          "name": "احمد علی",
+          "englishName": "Ahmed Ali",
+          "format": "text",
+          "type": "translation",
+          "direction": "rtl"
+        },
+        "surah": {
+          "number": 114,
+          "name": "سورة الناس",
+          "englishName": "An-Naas",
+          "englishNameTranslation": "Mankind",
+          "numberOfAyahs": 6,
+          "revelationType": "Meccan"
+        },
+        "numberInSurah": 6,
+        "juz": 30,
+        "manzil": 7,
+        "page": 604,
+        "ruku": 556,
+        "hizbQuarter": 240,
+        "sajda": false
+      }
+    ]
+  ]
+}
