@@ -7,11 +7,17 @@ const duaCard = (props) => {
   return (
     <div className="duaCard">
       <div className="title">
-        <span>{props.surahNum}</span>
         <span>
-          {props.surahNameEnglish} | {props.surahNameTranslation}
+          <h2>{props.surahNum}</h2>
         </span>
-        <span>{props.surahNameArabic}</span>
+        <span>
+          <h3>
+            {props.surahNameEnglish} | {props.surahNameTranslation}
+          </h3>
+        </span>
+        <h3>
+          <span className="surahArabicName">{props.surahNameArabic}</span>
+        </h3>
       </div>
       <div className="verses">
         {props.verses.map((verse, index) => {

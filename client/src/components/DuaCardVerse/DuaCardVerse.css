@@ -1,0 +1,23 @@
+.duaCardVerse {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  border-bottom: 1px solid #cccccc;
+}
+
+.duaCardVerse img,
+.urdu {
+  align-self: flex-end;
+  font-family: 'Urdu';
+  font-size: larger;
+}
+
+.duaCardVerse img {
+  transition: transform 0.2s;
+}
+
+.duaCardVerse img:hover {
+  -ms-transform: scale(1.5);
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.5) translateX(-200px);
+}

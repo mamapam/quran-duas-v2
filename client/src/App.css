@@ -20,10 +20,10 @@
 .duaListWrapper {
   display: flex;
   flex: 2.25;
-  background-color: #eeeeee;
+  /* background-color: #eeeeee; */
   /* padding: 20px;
   margin: 20px; */
-  height: 90%;
+  height: 100%;
   /* flex-direction: column; */
 }
 

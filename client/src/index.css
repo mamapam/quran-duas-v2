@@ -1,7 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;700&display=swap');
+@font-face {
+  font-family: 'MeQuran';
+  src: local('MeQuran'), url('./assets/fonts/me_quran_2.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Urdu';
+  src: local('Urdu'), url('./assets/fonts/Jameel_1.ttf') format('truetype');
+}
 
 body {
   margin: 0;
   font-family: 'Cormorant Garamond', serif;
-  background-color: #f2f2f2;
+  background-color: #ffffff;
 }
