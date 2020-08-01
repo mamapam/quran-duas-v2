@@ -16,4 +16,4 @@ You must have Node.js v8.3.0 or higher to run this application.
 
 ## Built With
 * [NodeJS](https://nodejs.org/en/)
-* [Create React App](https://reactjs.org/docs/create-a-new-react-app.html)
+* [Create React App](https://reactjs.org/docs/create-a-new-react-app.html) - v16.13.1
