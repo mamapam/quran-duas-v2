@@ -1,5 +1,5 @@
 # quran-duas-v2 :pray:
-This is version 2 of the QuranDuas application remade in React JS. It will display specific duas from the Quran and show them with the option to filter what you see.
+This is version 2 of the [QuranDuas](https://github.com/mamapam/QuranDuas) application remade in React JS. It will display specific duas from the Quran and show them with the option to filter what you see.
 
 ## Getting Started
 Follow the below instructions to get the project working locally for development.
