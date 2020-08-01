@@ -11,7 +11,8 @@ You must have Node.js v8.3.0 or higher to run this application.
 1. Clone the repo locally.
 2. In the root directory, run `npm install`
 3. In the client directory, run `npm install`
-4. You can run both client and server at the same time by running `npm start` from the root directory.
+4. In the root directory create a `.env` file and add the values for `NODE_ENV`, `PORT` and `QURAN_API`
+5. You can run both client and server at the same time by running `npm start` from the root directory.
 
 ## Built With
 * [NodeJS](https://nodejs.org/en/)
