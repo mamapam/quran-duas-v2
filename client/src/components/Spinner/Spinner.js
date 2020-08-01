@@ -5,6 +5,7 @@ import './Spinner.css';
 const spinner = () => {
   return (
     <div className="parent">
+      <div className="backdrop"></div>
       <div className="sk-folding-cube">
         <div className="sk-cube1 sk-cube"></div>
         <div className="sk-cube2 sk-cube"></div>

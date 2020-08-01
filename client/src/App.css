@@ -9,12 +9,13 @@
   margin-top: 80px;
 }
 
-.filter {
+.filterWrapper {
   display: flex;
   flex: 0.75;
-  padding: 20px;
-  margin: 20px;
+  /* padding: 20px;
+  margin: 20px; */
   align-items: center;
+  height: 100%;
 }
 
 .duaListWrapper {
@@ -30,5 +31,14 @@
 @media (min-width: 1000px) {
   .App {
     flex-direction: row;
+  }
+}
+
+@media (max-width: 1000px) {
+  .filterWrapper {
+    align-items: flex-start;
+    height: 50%;
+    padding: 20px;
+    flex: 0.5;
   }
 }

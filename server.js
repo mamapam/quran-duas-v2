@@ -3,6 +3,7 @@ require('dotenv').config();
 const express = require('express');
 const cors = require('cors');
 const apiData = require('./apiData');
+const savedData = require('./savedData.json');
 
 // Setup Express
 const app = express();
@@ -17,6 +18,7 @@ if (process.env.NODE_ENV === 'production') {
 }
 
 let cachedData = {};
+cachedData = { ...cachedData, savedData };
 
 // API Routes
 app.get('/api/duas', (req, res) => {
