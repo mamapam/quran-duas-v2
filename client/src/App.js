@@ -23,29 +23,26 @@ function App() {
       .catch((err) => {
         console.log(err);
       });
-  }, []);
+  }, duas);
 
   const filterHandler = (event) => {
-    if (event.target.checked) {
-      setFilterView((filterView) => [...filterView, event.target.value]);
-      console.log('got it checked');
-    } else {
-      console.log('it was unchecked');
-    }
-    //console.log(event.target.checked);
+    setFilterView([event]);
   };
-
-  const duaCardList = (
-    <div className="duaListWrapper">
-      <DuaCardList className="duaCardList" duas={duas} />
-    </div>
-  );
 
   const filter = (
     <div className="filterWrapper">
-      <Filter duas={duas} changeHandler={filterHandler} />
+      <Filter duas={duas} changeHandler={(e) => filterHandler(e)} />
     </div>
   );
+
+  let duaCardList = null;
+  if (filterView.length === 0) {
+    duaCardList = (
+      <div className="duaListWrapper">
+        <DuaCardList className="duaCardList" duas={duas} />
+      </div>
+    );
+  }
 
   return (
     <div className="App">

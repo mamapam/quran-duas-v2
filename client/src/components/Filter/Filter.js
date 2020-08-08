@@ -1,49 +1,29 @@
-import React from 'react';
-import { withStyles } from '@material-ui/core/styles';
-import { grey } from '@material-ui/core/colors';
-import Checkbox from '@material-ui/core/Checkbox';
+import React, { useState } from 'react';
+import { Checkbox } from 'antd';
 
 import './Filter.css';
 
-const filter = (props) => {
-  const GreyCheckbox = withStyles({
-    root: {
-      color: grey[400],
-      '&$checked': {
-        color: grey[600],
-      },
-    },
-    checked: {},
-  })((props) => <Checkbox color="default" {...props} />);
+const Filter = (props) => {
+  // create array of [{label: xxx, value: xxx}]
 
-  const surahs = [];
+  const options = [];
   for (const key in props.duas) {
     const data = props.duas[key][0][0];
-    surahs.push(
-      <li key={key}>
-        <div>
-          <GreyCheckbox
-            value={data.surah.number}
-            onChange={props.changeHandler}
-          />
-          <p>{data.surah.englishName}</p>
-        </div>
-      </li>
-    );
+    options.push({ label: data.surah.englishName, value: data.surah.number });
   }
 
   return (
     <div className="filter">
       <div className="filterTitle">Filter</div>
       <div>
-        <ul>
-          {surahs.map((surah) => {
-            return surah;
-          })}
-        </ul>
+        <Checkbox.Group
+          className="filterOptions"
+          options={options}
+          onChange={props.changeHandler}
+        />
       </div>
     </div>
   );
 };
 
-export default filter;
+export default Filter;
