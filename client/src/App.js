@@ -16,7 +16,7 @@ function App() {
   useEffect(() => {
     setIsLoading(true);
     axios
-      .get('http://localhost:5000/api/duas')
+      .get('/api/duas')
       .then((res) => {
         setDuas(res.data.savedData);
         setIsLoading(false);
