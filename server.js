@@ -18,7 +18,7 @@ if (process.env.NODE_ENV === 'production') {
 }
 
 let cachedData = {};
-cachedData = { ...cachedData, savedData };
+//cachedData = { ...cachedData, savedData };
 
 // API Routes
 app.get('/api/duas', (req, res) => {
@@ -30,7 +30,8 @@ app.get('/api/duas', (req, res) => {
     .getAllData()
     .then((response) => {
       cachedData = { ...response };
-      return res.status(200).json(response);
+      console.log(cachedData);
+      return res.status(200).json(cachedData);
     })
     .catch((err) => {
       return res.status(500).json({ err: err });

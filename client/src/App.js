@@ -18,7 +18,8 @@ function App() {
     axios
       .get('/api/duas')
       .then((res) => {
-        setDuas(res.data.savedData);
+        // setDuas(res.data.savedData);
+        setDuas(res.data);
         setIsLoading(false);
       })
       .catch((err) => {

@@ -8,7 +8,6 @@ const duaCardList = React.memo((props) => {
 
   for (const key in props.duas) {
     const data = props.duas[key][0][0];
-    // console.log('rerender duacardLIST');
     duaCards.push(
       <DuaCard
         key={key}
