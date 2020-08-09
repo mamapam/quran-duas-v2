@@ -3,12 +3,12 @@ import DuaCard from '../DuaCard/DuaCard';
 
 import './DuaCardList.css';
 
-const duaCardList = (props) => {
+const duaCardList = React.memo((props) => {
   let duaCards = [];
 
   for (const key in props.duas) {
     const data = props.duas[key][0][0];
-    // console.log('verses', props.duas[key]);
+    // console.log('rerender duacardLIST');
     duaCards.push(
       <DuaCard
         key={key}
@@ -22,6 +22,6 @@ const duaCardList = (props) => {
   }
 
   return <div className="duaCardList">{duaCards}</div>;
-};
+});
 
 export default duaCardList;

@@ -20,6 +20,8 @@
   display: flex;
   flex-direction: column;
   padding: 10px;
+  margin-left: 20px;
+  font-size: larger;
 }
 
 .filter ul {

@@ -10,6 +10,7 @@ import Filter from './components/Filter/Filter';
 function App() {
   const [isLoading, setIsLoading] = useState(false);
   const [duas, setDuas] = useState(null);
+  const [filterDuas, setFilterDuas] = useState({});
   const [filterView, setFilterView] = useState([]);
 
   useEffect(() => {
@@ -23,7 +24,36 @@ function App() {
       .catch((err) => {
         console.log(err);
       });
-  }, duas);
+  }, []);
+
+  useEffect(() => {
+    if (filterView.length === 0 || filterView[0].length === 0) {
+      const copy = { ...duas };
+      console.log(copy);
+      setFilterDuas(copy);
+    } else if (filterView[0] !== undefined && filterView[0].length !== 0) {
+      filterView[0].forEach((id) => {
+        setFilterDuas((prevFilterDuas) => {
+          if (Object.keys(prevFilterDuas).length <= filterView[0].length) {
+            return {
+              ...prevFilterDuas,
+              [id]: duas[id],
+            };
+          } else if (
+            Object.keys(prevFilterDuas).length >= filterView[0].length
+          ) {
+            const copy = { ...filterDuas };
+            for (const key in copy) {
+              if (!filterView[0].includes(Number(key))) {
+                delete copy[key];
+                return copy;
+              }
+            }
+          }
+        });
+      });
+    }
+  }, [filterView]);
 
   const filterHandler = (event) => {
     setFilterView([event]);
@@ -35,15 +65,16 @@ function App() {
     </div>
   );
 
-  let duaCardList = null;
-  if (filterView.length === 0) {
-    duaCardList = (
-      <div className="duaListWrapper">
-        <DuaCardList className="duaCardList" duas={duas} />
-      </div>
-    );
-  }
-
+  const duaCardList = (
+    <div className="duaListWrapper">
+      <DuaCardList
+        className="duaCardList"
+        // duas={Object.keys(filterDuas).length === 0 ? duas : filterDuas}
+        duas={filterDuas}
+      />
+    </div>
+  );
+  // console.log('rerendering app');
   return (
     <div className="App">
       {isLoading ? <Spinner /> : null}
